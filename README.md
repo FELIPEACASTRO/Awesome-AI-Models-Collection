@@ -374,3 +374,29 @@ Ver detalhes em: [NEW_REPOSITORIES.md](./NEW_REPOSITORIES.md)
 🔗 Compartilhe com outros entusiastas de IA!
 
 💡 Sugestões? Abra uma issue!
+
+---
+
+## 🌐 Análise de Plataformas de IA (NOVO!)
+
+### 📊 30 Plataformas Analisadas
+
+Realizamos uma **análise paralela** de 30 plataformas líderes de IA e identificamos **775 recursos adicionais**:
+
+- **158 Modelos** de IA
+- **62 Datasets** públicos
+- **302 Papers** de pesquisa
+- **194 Ferramentas** e APIs
+- **150 Repositórios** GitHub
+
+**Plataformas Analisadas:**
+- 🔬 Plataformas de Pesquisa: SciSpace, Dimensions AI
+- 🏢 Empresas de IA: AllenAI, DeepMind, Mistral, Perplexity, DeepSeek, Cohere
+- 🎓 Institutos: Stanford SAIL, Berkeley BAIR, MIT-IBM Watson, Vector Institute
+- 🏭 Empresas: Scale AI, H2O.ai, Landing AI
+- 🛠️ Ferramentas: WebLLM, Ollama
+
+**📄 Ver análise completa:** [PLATFORMS_ANALYSIS.md](./PLATFORMS_ANALYSIS.md)
+
+**Total Geral:** 1,118+ recursos (343 anteriores + 775 novos)
+
