@@ -15,9 +15,9 @@
 
 ## 📊 Estatísticas
 
-- 🎯 **14,471+ recursos** únicos
-- 📁 **11 temas** principais organizados
-- 📄 **36 documentos** estruturados
+- 🎯 **14,504+ recursos** únicos
+- 📁 **12 temas** principais organizados
+- 📄 **38 documentos** estruturados
 - 🌐 **37 plataformas** exploradas
 - 🎓 **200+ universidades** cobertas
 - ☁️ **3 cloud providers** (AWS, Google, Microsoft)
@@ -40,7 +40,8 @@ Awesome-AI-Models-Collection/
 ├── 📁 08_ULTIMATE/                # Coleção ultimate
 ├── 📁 09_ADVANCED_MODELS/         # 51+ recursos avançados (2025)
 ├── 📁 10_SOTA_REPOS_2025/         # 35 repos estado-da-arte (Out 2025)
-└── 📁 11_UNIVERSITY_ORGS/         # 36 orgs universitárias (2025)
+├── 📁 11_UNIVERSITY_ORGS/         # 36 orgs universitárias (2025)
+└── 📁 12_ENSEMBLE_LEARNING/       # 33 repos ensemble learning (2025)
 ```
 
 ---
@@ -153,6 +154,26 @@ Coleção consolidada dos recursos mais importantes.
 - 28 universidades de prestígio mundial
 - 8 institutos de pesquisa independentes
 - América do Norte, Ásia, Europa
+
+### 1️⃣2️⃣ [Ensemble Learning](12_ENSEMBLE_LEARNING/) - 33 repos 🆕
+
+**Validação de 81 Repositórios:**
+- 73 repositórios válidos (90% taxa de sucesso)
+- 33 repositórios únicos (45.2% unicidade)
+- 150k+ stars combinadas
+
+**Destaques:**
+- google-research/google-research (36.6k ⭐)
+- NVIDIA/DeepLearningExamples (14.5k ⭐)
+- bloomberg/memray (14.5k ⭐)
+- facebookresearch/maskrcnn-benchmark (9.4k ⭐)
+- scikit-learn-contrib/imbalanced-learn (7.1k ⭐)
+
+**Categorias:**
+- Deep Learning Frameworks (8 repos)
+- Ensemble Libraries (5 repos)
+- Hyperparameter Optimization (2 repos)
+- Boosting, AutoML, Bayesian Methods
 
 ---
 
