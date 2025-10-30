@@ -15,9 +15,9 @@
 
 ## 📊 Estatísticas
 
-- 🎯 **14,350+ recursos** únicos
-- 📁 **8 temas** principais organizados
-- 📄 **27 documentos** estruturados
+- 🎯 **14,400+ recursos** únicos
+- 📁 **9 temas** principais organizados
+- 📄 **32 documentos** estruturados
 - 🌐 **37 plataformas** exploradas
 - 🎓 **200+ universidades** cobertas
 - ☁️ **3 cloud providers** (AWS, Google, Microsoft)
@@ -37,7 +37,8 @@ Awesome-AI-Models-Collection/
 ├── 📁 05_REPOSITORIES/            # 1,000+ repos GitHub
 ├── 📁 06_SPECIALIZED/             # 461 recursos especializados
 ├── 📁 07_RESOURCES/               # 2,000+ recursos diversos
-└── 📁 08_ULTIMATE/                # Coleção ultimate
+├── 📁 08_ULTIMATE/                # Coleção ultimate
+└── 📁 09_ADVANCED_MODELS/         # 51+ recursos avançados (2025)
 ```
 
 ---
@@ -93,6 +94,30 @@ Awesome-AI-Models-Collection/
 ### 8️⃣ [Ultimate Collection](08_ULTIMATE/)
 
 Coleção consolidada dos recursos mais importantes.
+
+### 9️⃣ [Recursos Avançados 2025](09_ADVANCED_MODELS/) - 51+ recursos 🆕
+
+**Modelos SOTA (15):**
+- YOLOv12, GPT-5, OpenAI o3, Sora, Veo 3
+- Llama 3.1/3.3, Code Llama, Stable Diffusion XL
+- GPT-4V, BLIP, Whisper, sentence-transformers
+
+**Transfer Learning (15):**
+- Frameworks: Hugging Face Transformers, ADAPT, PEFT
+- Técnicas: LoRA, ULMFiT, Knowledge Distillation
+- Few-Shot/Zero-Shot: CLIP, Prototypical Networks
+- Meta-Learning: learn2learn, MAML
+
+**Datasets Especializados (15+):**
+- Neuroimagem: OpenNeuro (1,240+ datasets)
+- Finanças: Stock Market (2.75 GB)
+- Direção Autônoma: KITTI, nuScenes
+- Visão: ImageNet (14M+), COCO
+
+**Feature Engineering (6):**
+- Bibliotecas: scikit-learn, Feature-engine, Featuretools, SHAP
+- Redução: PCA, t-SNE, UMAP
+- Importance: XGBoost
 
 ---
 
