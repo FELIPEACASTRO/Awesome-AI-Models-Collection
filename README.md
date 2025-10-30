@@ -15,9 +15,9 @@
 
 ## 📊 Estatísticas
 
-- 🎯 **14,400+ recursos** únicos
-- 📁 **9 temas** principais organizados
-- 📄 **32 documentos** estruturados
+- 🎯 **14,435+ recursos** únicos
+- 📁 **10 temas** principais organizados
+- 📄 **34 documentos** estruturados
 - 🌐 **37 plataformas** exploradas
 - 🎓 **200+ universidades** cobertas
 - ☁️ **3 cloud providers** (AWS, Google, Microsoft)
@@ -38,7 +38,8 @@ Awesome-AI-Models-Collection/
 ├── 📁 06_SPECIALIZED/             # 461 recursos especializados
 ├── 📁 07_RESOURCES/               # 2,000+ recursos diversos
 ├── 📁 08_ULTIMATE/                # Coleção ultimate
-└── 📁 09_ADVANCED_MODELS/         # 51+ recursos avançados (2025)
+├── 📁 09_ADVANCED_MODELS/         # 51+ recursos avançados (2025)
+└── 📁 10_SOTA_REPOS_2025/         # 35 repos estado-da-arte (Out 2025)
 ```
 
 ---
@@ -118,6 +119,20 @@ Coleção consolidada dos recursos mais importantes.
 - Bibliotecas: scikit-learn, Feature-engine, Featuretools, SHAP
 - Redução: PCA, t-SNE, UMAP
 - Importance: XGBoost
+
+### 🔟 [Repositórios SOTA 2025](10_SOTA_REPOS_2025/) - 35 repos 🆕
+
+**Validação de 7.000+ Repositórios:**
+- 35 repositórios únicos validados
+- 200k+ stars combinadas
+- Categorias: LLMs, Multimodal, Generative AI, Robotics, 3D, Code Gen
+
+**Destaques:**
+- mozilla/DeepSpeech (26.6k ⭐) - Speech-to-text
+- Stability-AI/generative-models (26.5k ⭐)
+- microsoft/BitNet (24.3k ⭐) - 1-bit LLMs
+- state-spaces/mamba (16.3k ⭐) - Mamba SSM
+- BlinkDL/RWKV-LM (14.1k ⭐) - RWKV-7
 
 ---
 
