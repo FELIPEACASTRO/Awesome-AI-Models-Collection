@@ -238,3 +238,24 @@ Agradecimentos especiais a todos os desenvolvedores e pesquisadores que criaram 
 🔗 Compartilhe com outros entusiastas de IA!
 
 💡 Sugestões? Abra uma issue!
+
+## 🆕 Atualização Recente - Outubro 2025
+
+### Novos Repositórios Adicionados: 51
+
+Expandimos a coleção com **51 novos repositórios** de modelos de IA avançados, incluindo:
+
+- **OCR e Document Understanding** (7 repos) - DeepSeek-OCR, PaddleOCR-VL, LightOnOCR
+- **Text Generation e LLMs** (10 repos) - MiniMax-M2, GPT-OSS, Llama 3.1, DeepSeek-V3.2
+- **Vision Language Models** (8 repos) - Qwen3-VL series, NVIDIA Omnivinci, VILA
+- **Image Generation** (10 repos) - FLUX.1, Qwen-Image-Edit, AMD Nitro-E
+- **Video Generation** (7 repos) - HunyuanWorld, LongCat-Video, WAN2.2
+- **Audio e Speech** (2 repos) - SoulX-Podcast, Kokoro-82M
+- **Specialized Models** (2 repos) - Tahoe-x1 (biology), LFM2-ColBERT
+- **State-of-the-Art Collections** (5 repos) - ONNX models, ailia-models, Genesis
+
+### Total Atualizado: 161 Repositórios
+
+Ver lista completa em: [NEW_REPOSITORIES.md](./NEW_REPOSITORIES.md)
+
+---
