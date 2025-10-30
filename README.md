@@ -15,9 +15,9 @@
 
 ## 📊 Estatísticas
 
-- 🎯 **14,435+ recursos** únicos
-- 📁 **10 temas** principais organizados
-- 📄 **34 documentos** estruturados
+- 🎯 **14,471+ recursos** únicos
+- 📁 **11 temas** principais organizados
+- 📄 **36 documentos** estruturados
 - 🌐 **37 plataformas** exploradas
 - 🎓 **200+ universidades** cobertas
 - ☁️ **3 cloud providers** (AWS, Google, Microsoft)
@@ -39,7 +39,8 @@ Awesome-AI-Models-Collection/
 ├── 📁 07_RESOURCES/               # 2,000+ recursos diversos
 ├── 📁 08_ULTIMATE/                # Coleção ultimate
 ├── 📁 09_ADVANCED_MODELS/         # 51+ recursos avançados (2025)
-└── 📁 10_SOTA_REPOS_2025/         # 35 repos estado-da-arte (Out 2025)
+├── 📁 10_SOTA_REPOS_2025/         # 35 repos estado-da-arte (Out 2025)
+└── 📁 11_UNIVERSITY_ORGS/         # 36 orgs universitárias (2025)
 ```
 
 ---
@@ -133,6 +134,25 @@ Coleção consolidada dos recursos mais importantes.
 - microsoft/BitNet (24.3k ⭐) - 1-bit LLMs
 - state-spaces/mamba (16.3k ⭐) - Mamba SSM
 - BlinkDL/RWKV-LM (14.1k ⭐) - RWKV-7
+
+### 1️⃣1️⃣ [Organizações Universitárias](11_UNIVERSITY_ORGS/) - 36 orgs 🆕
+
+**Validação de 94 Organizações GitHub:**
+- 71 organizações válidas (75% taxa de sucesso)
+- 36 organizações únicas (50.7% unicidade)
+- 2.000+ repositórios públicos combinados
+
+**Destaques:**
+- Imperial College London (707 repos)
+- University College London (331 repos)
+- THUNLP - Tsinghua NLP (259 repos)
+- Stanford ASL (155 repos)
+- LAION AI (108 repos)
+
+**Cobertura:**
+- 28 universidades de prestígio mundial
+- 8 institutos de pesquisa independentes
+- América do Norte, Ásia, Europa
 
 ---
 
