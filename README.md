@@ -15,7 +15,7 @@
 
 ## 📊 Estatísticas
 
-- 🎯 **14,506+ recursos** únicos
+- 🎯 **14,515+ recursos** únicos
 - 📁 **12 temas** principais organizados
 - 📄 **38 documentos** estruturados
 - 🌐 **37 plataformas** exploradas
