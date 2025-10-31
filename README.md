@@ -15,9 +15,9 @@
 
 ## 📊 Estatísticas
 
-- 🎯 **14,550+ recursos** únicos
+- 🎯 **14,557+ recursos** únicos
 - 📁 **12 temas** principais organizados
-- 📄 **39 documentos** estruturados
+- 📄 **40 documentos** estruturados
 - 🌐 **37 plataformas** exploradas
 - 🎓 **200+ universidades** cobertas
 - ☁️ **3 cloud providers** (AWS, Google, Microsoft)
