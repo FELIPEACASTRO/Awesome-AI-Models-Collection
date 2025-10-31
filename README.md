@@ -15,9 +15,9 @@
 
 ## 📊 Estatísticas
 
-- 🎯 **14,670+ recursos** únicos
-- 📁 **15 temas** principais organizados
-- 📄 **51 documentos** estruturados
+- 🎯 **14,673+ recursos** únicos
+- 📁 **16 temas** principais organizados
+- 📄 **52 documentos** estruturados
 - 🌐 **37 plataformas** exploradas
 - 🎓 **200+ universidades** cobertas
 - ☁️ **3 cloud providers** (AWS, Google, Microsoft)
@@ -54,6 +54,18 @@ Awesome-AI-Models-Collection/
 - tensorflow/tensor2tensor (16.7k ⭐)
 - fchollet/deep-learning-models (7.4k ⭐)
 ### 1️⃣5️⃣ [Top Repositórios Ausentes](15_TOP_REPOS_AUSENTES/) - 42 repos 🆕
+### 1️⃣6️⃣ [Diretórios de IA](16_AI_DIRECTORIES/) - 12 recursos 🆕
+
+**Diretórios Web (9):**
+- theresanaiforthat.com (39k+ ferramentas)
+- futurepedia.io (5.5k+ ferramentas)
+- toolify.ai (7k+ ferramentas)
+
+**Repositórios GitHub (3):**
+- jmorganca/ollama (155k ⭐)
+- Shubhamsaboo/awesome-llm-apps (74k ⭐)
+- best-of-ai/ai-directories (618 ⭐)
+├── 📁 16_AI_DIRECTORIES/         # 12 recursos de diretórios (2025)
 
 **Validação de 95 Repositórios:**
 - 45 repositórios únicos validados
@@ -208,6 +220,18 @@ Coleção consolidada dos recursos mais importantes.
 - tensorflow/tensor2tensor (16.7k ⭐)
 - fchollet/deep-learning-models (7.4k ⭐)
 ### 1️⃣5️⃣ [Top Repositórios Ausentes](15_TOP_REPOS_AUSENTES/) - 42 repos 🆕
+### 1️⃣6️⃣ [Diretórios de IA](16_AI_DIRECTORIES/) - 12 recursos 🆕
+
+**Diretórios Web (9):**
+- theresanaiforthat.com (39k+ ferramentas)
+- futurepedia.io (5.5k+ ferramentas)
+- toolify.ai (7k+ ferramentas)
+
+**Repositórios GitHub (3):**
+- jmorganca/ollama (155k ⭐)
+- Shubhamsaboo/awesome-llm-apps (74k ⭐)
+- best-of-ai/ai-directories (618 ⭐)
+├── 📁 16_AI_DIRECTORIES/         # 12 recursos de diretórios (2025)
 
 **Validação de 95 Repositórios:**
 - 45 repositórios únicos validados
