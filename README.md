@@ -15,9 +15,9 @@
 
 ## 📊 Estatísticas
 
-- 🎯 **14,654+ recursos** únicos
-- 📁 **13 temas** principais organizados
-- 📄 **50 documentos** estruturados
+- 🎯 **14,670+ recursos** únicos
+- 📁 **15 temas** principais organizados
+- 📄 **51 documentos** estruturados
 - 🌐 **37 plataformas** exploradas
 - 🎓 **200+ universidades** cobertas
 - ☁️ **3 cloud providers** (AWS, Google, Microsoft)
@@ -43,6 +43,26 @@ Awesome-AI-Models-Collection/
 ├── 📁 11_UNIVERSITY_ORGS/         # 36 orgs universitárias (2025)
 ├── 📁 12_ENSEMBLE_LEARNING/       # 33 repos ensemble learning (2025)
 └── 📁 13_NICHE_AI_MODELS/         # 86 repos nichos especializados (2025)
+### 1️⃣4️⃣ [Recursos Gerais de IA](14_GENERAL_AI_MODELS/) - 100 repos 🆕
+
+**Validação de 137 Repositórios:**
+- 105 repositórios únicos validados
+- 236k+ stars combinadas
+
+**Destaques:**
+- google-research/tuning_playbook (29.3k ⭐)
+- tensorflow/tensor2tensor (16.7k ⭐)
+- fchollet/deep-learning-models (7.4k ⭐)
+### 1️⃣5️⃣ [Top Repositórios Ausentes](15_TOP_REPOS_AUSENTES/) - 42 repos 🆕
+
+**Validação de 95 Repositórios:**
+- 45 repositórios únicos validados
+- 1.2M+ stars combinadas
+
+**Destaques:**
+- hacksider/Deep-Live-Cam (74k ⭐) - Real-time face swap
+- mlabonne/llm-course (66k ⭐) - LLM learning course
+- infiniflow/ragflow (66k ⭐) - RAG engine
 ```
 
 ---
@@ -177,6 +197,26 @@ Coleção consolidada dos recursos mais importantes.
 - Boosting, AutoML, Bayesian Methods
 
 ### 1️⃣3️⃣ [Niche AI Models](13_NICHE_AI_MODELS/) - 86 repos 🆕
+### 1️⃣4️⃣ [Recursos Gerais de IA](14_GENERAL_AI_MODELS/) - 100 repos 🆕
+
+**Validação de 137 Repositórios:**
+- 105 repositórios únicos validados
+- 236k+ stars combinadas
+
+**Destaques:**
+- google-research/tuning_playbook (29.3k ⭐)
+- tensorflow/tensor2tensor (16.7k ⭐)
+- fchollet/deep-learning-models (7.4k ⭐)
+### 1️⃣5️⃣ [Top Repositórios Ausentes](15_TOP_REPOS_AUSENTES/) - 42 repos 🆕
+
+**Validação de 95 Repositórios:**
+- 45 repositórios únicos validados
+- 1.2M+ stars combinadas
+
+**Destaques:**
+- hacksider/Deep-Live-Cam (74k ⭐) - Real-time face swap
+- mlabonne/llm-course (66k ⭐) - LLM learning course
+- infiniflow/ragflow (66k ⭐) - RAG engine
 
 **Validação de 159 Repositórios:**
 - 143 repositórios válidos (90% taxa de sucesso)
@@ -275,6 +315,6 @@ cat EPIC_AI_COLLECTION.md
 
 Made with ❤️ by [Felipe Castro](https://github.com/FELIPEACASTRO)
 
-**Última Atualização:** 30 de Outubro de 2025
+**Última Atualização:** 31 de Outubro de 2025
 
 </div>

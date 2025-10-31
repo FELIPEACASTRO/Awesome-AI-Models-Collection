@@ -44,3 +44,7 @@ Este documento lista 13 novos repositórios de IA de alta qualidade, únicos e d
 |---|-------------|----------|--------|-------------|
 | 1 | [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) | ⭐ 11.211 | ✅ Active | HunyuanVideo: A Systematic Framework For Large Video Generation Model  |
 
+
+---
+
+[↩️ Voltar para o índice](./README.md) | [🏠 README principal](../README.md)

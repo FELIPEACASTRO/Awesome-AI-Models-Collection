@@ -98,3 +98,7 @@ Este documento lista 45 repositórios de IA de alta qualidade, únicos e de cód
 | 2 | [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) | ⭐ 23.261 | ✅ Active | Distribute and run LLMs with a single file.  |
 | 3 | [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) | ⭐ 12.474 | ✅ Active | 📋 A list of open LLMs available for commercial use.  |
 
+
+---
+
+[↩️ Voltar para o índice](./README.md) | [🏠 README principal](../README.md)
