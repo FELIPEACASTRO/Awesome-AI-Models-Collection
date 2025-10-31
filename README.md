@@ -15,9 +15,9 @@
 
 ## 📊 Estatísticas
 
-- 🎯 **14,568+ recursos** únicos
-- 📁 **12 temas** principais organizados
-- 📄 **41 documentos** estruturados
+- 🎯 **14,654+ recursos** únicos
+- 📁 **13 temas** principais organizados
+- 📄 **50 documentos** estruturados
 - 🌐 **37 plataformas** exploradas
 - 🎓 **200+ universidades** cobertas
 - ☁️ **3 cloud providers** (AWS, Google, Microsoft)
@@ -41,7 +41,8 @@ Awesome-AI-Models-Collection/
 ├── 📁 09_ADVANCED_MODELS/         # 51+ recursos avançados (2025)
 ├── 📁 10_SOTA_REPOS_2025/         # 35 repos estado-da-arte (Out 2025)
 ├── 📁 11_UNIVERSITY_ORGS/         # 36 orgs universitárias (2025)
-└── 📁 12_ENSEMBLE_LEARNING/       # 33 repos ensemble learning (2025)
+├── 📁 12_ENSEMBLE_LEARNING/       # 33 repos ensemble learning (2025)
+└── 📁 13_NICHE_AI_MODELS/         # 86 repos nichos especializados (2025)
 ```
 
 ---
@@ -174,6 +175,23 @@ Coleção consolidada dos recursos mais importantes.
 - Ensemble Libraries (5 repos)
 - Hyperparameter Optimization (2 repos)
 - Boosting, AutoML, Bayesian Methods
+
+### 1️⃣3️⃣ [Niche AI Models](13_NICHE_AI_MODELS/) - 86 repos 🆕
+
+**Validação de 159 Repositórios:**
+- 143 repositórios válidos (90% taxa de sucesso)
+- 86 repositórios únicos (60% unicidade)
+- Foco em nichos especializados
+
+**Categorias:**
+- Audio & Music AI
+- Video Generation & Analysis
+- Code Generation & Analysis
+- Medical & Scientific AI
+- Time Series & Forecasting
+- Graph Neural Networks
+- Reinforcement Learning
+- Other Specialized Models
 
 ---
 
