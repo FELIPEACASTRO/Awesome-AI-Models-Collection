@@ -15,9 +15,9 @@
 
 ## 📊 Estatísticas
 
-- 🎯 **14,673+ recursos** únicos
-- 📁 **16 temas** principais organizados
-- 📄 **52 documentos** estruturados
+- 🎯 **14,699+ recursos** únicos
+- 📁 **17 temas** principais organizados
+- 📄 **53 documentos** estruturados
 - 🌐 **37 plataformas** exploradas
 - 🎓 **200+ universidades** cobertas
 - ☁️ **3 cloud providers** (AWS, Google, Microsoft)
@@ -55,6 +55,18 @@ Awesome-AI-Models-Collection/
 - fchollet/deep-learning-models (7.4k ⭐)
 ### 1️⃣5️⃣ [Top Repositórios Ausentes](15_TOP_REPOS_AUSENTES/) - 42 repos 🆕
 ### 1️⃣6️⃣ [Diretórios de IA](16_AI_DIRECTORIES/) - 12 recursos 🆕
+### 1️⃣7️⃣ [Recursos de Arquivos de Texto](17_PASTED_RESOURCES/) - 26 repos 🆕
+
+**Validação de 53 URLs:**
+- 26 repositórios únicos validados
+- 618k+ estrelas combinadas
+
+**Categorias:**
+- AI Coding Assistants (13 repos - 168k⭐)
+- AI Agents & Frameworks (6 repos - 220k⭐)
+- LLM Libraries & Tools (4 repos - 209k⭐)
+- Browser Automation, Learning, Specialized
+├── 📁 17_PASTED_RESOURCES/        # 26 repositórios de arquivos (2025)
 
 **Diretórios Web (9):**
 - theresanaiforthat.com (39k+ ferramentas)
@@ -66,6 +78,18 @@ Awesome-AI-Models-Collection/
 - Shubhamsaboo/awesome-llm-apps (74k ⭐)
 - best-of-ai/ai-directories (618 ⭐)
 ├── 📁 16_AI_DIRECTORIES/         # 12 recursos de diretórios (2025)
+### 1️⃣7️⃣ [Recursos de Arquivos de Texto](17_PASTED_RESOURCES/) - 26 repos 🆕
+
+**Validação de 53 URLs:**
+- 26 repositórios únicos validados
+- 618k+ estrelas combinadas
+
+**Categorias:**
+- AI Coding Assistants (13 repos - 168k⭐)
+- AI Agents & Frameworks (6 repos - 220k⭐)
+- LLM Libraries & Tools (4 repos - 209k⭐)
+- Browser Automation, Learning, Specialized
+├── 📁 17_PASTED_RESOURCES/        # 26 repositórios de arquivos (2025)
 
 **Validação de 95 Repositórios:**
 - 45 repositórios únicos validados
@@ -221,6 +245,18 @@ Coleção consolidada dos recursos mais importantes.
 - fchollet/deep-learning-models (7.4k ⭐)
 ### 1️⃣5️⃣ [Top Repositórios Ausentes](15_TOP_REPOS_AUSENTES/) - 42 repos 🆕
 ### 1️⃣6️⃣ [Diretórios de IA](16_AI_DIRECTORIES/) - 12 recursos 🆕
+### 1️⃣7️⃣ [Recursos de Arquivos de Texto](17_PASTED_RESOURCES/) - 26 repos 🆕
+
+**Validação de 53 URLs:**
+- 26 repositórios únicos validados
+- 618k+ estrelas combinadas
+
+**Categorias:**
+- AI Coding Assistants (13 repos - 168k⭐)
+- AI Agents & Frameworks (6 repos - 220k⭐)
+- LLM Libraries & Tools (4 repos - 209k⭐)
+- Browser Automation, Learning, Specialized
+├── 📁 17_PASTED_RESOURCES/        # 26 repositórios de arquivos (2025)
 
 **Diretórios Web (9):**
 - theresanaiforthat.com (39k+ ferramentas)
@@ -232,6 +268,18 @@ Coleção consolidada dos recursos mais importantes.
 - Shubhamsaboo/awesome-llm-apps (74k ⭐)
 - best-of-ai/ai-directories (618 ⭐)
 ├── 📁 16_AI_DIRECTORIES/         # 12 recursos de diretórios (2025)
+### 1️⃣7️⃣ [Recursos de Arquivos de Texto](17_PASTED_RESOURCES/) - 26 repos 🆕
+
+**Validação de 53 URLs:**
+- 26 repositórios únicos validados
+- 618k+ estrelas combinadas
+
+**Categorias:**
+- AI Coding Assistants (13 repos - 168k⭐)
+- AI Agents & Frameworks (6 repos - 220k⭐)
+- LLM Libraries & Tools (4 repos - 209k⭐)
+- Browser Automation, Learning, Specialized
+├── 📁 17_PASTED_RESOURCES/        # 26 repositórios de arquivos (2025)
 
 **Validação de 95 Repositórios:**
 - 45 repositórios únicos validados
