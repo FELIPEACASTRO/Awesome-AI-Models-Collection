@@ -24,6 +24,11 @@ Categorias:
 - 🕸️ Graph Neural Networks
 - 🎮 Reinforcement Learning
 
+### [2.3 - Aplicações na Indústria](./2.3_Industry_Applications/)
+**8 repositórios**
+
+Coleção de repositórios de IA aplicada em diversos setores econômicos.
+
 ---
 
 [↩️ Voltar para o README principal](../README.md)
