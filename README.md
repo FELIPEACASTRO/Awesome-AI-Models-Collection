@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Recursos-14,739%2B-blue?style=for-the-badge" alt="Total de Recursos">
-  <img src="https://img.shields.io/badge/Temas-22-green?style=for-the-badge" alt="Total de Temas">
-  <img src="https://img.shields.io/badge/Documentos-81%2B-orange?style=for-the-badge" alt="Total de Documentos">
+  <img src="https://img.shields.io/badge/Total%20Recursos-14,889%2B-blue?style=for-the-badge" alt="Total de Recursos">
+  <img src="https://img.shields.io/badge/Temas-23-green?style=for-the-badge" alt="Total de Temas">
+  <img src="https://img.shields.io/badge/Documentos-84%2B-orange?style=for-the-badge" alt="Total de Documentos">
   <img src="https://img.shields.io/badge/Atualizado-Outubro%202025-red?style=for-the-badge" alt="Atualizado">
 </p>
 
@@ -22,12 +22,12 @@
 
 | Métrica | Valor | Comparação |
 |---|---|---|
-| 🎯 **Total de Recursos** | 14.739+ | **34X maior** que outros repos |
-| 📁 **Temas Organizados** | 22 | Estrutura hierárquica |
-| 📄 **Documentos** | 81+ | Profissionalmente formatados |
+| 🎯 **Total de Recursos** | 14.889+ | **35X maior** que outros repos |
+| 📁 **Temas Organizados** | 23 | Estrutura hierárquica |
+| 📄 **Documentos** | 84+ | Profissionalmente formatados |
 | 🌐 **Plataformas** | 87+ | AWS, Google, Azure, Snowflake |
 | 🎓 **Universidades** | 200+ | Cobertura global |
-| ⭐ **Estrelas Combinadas** | 2.1M+ | Repositórios validados |
+| ⭐ **Estrelas Combinadas** | 4.3M+ | Repositórios validados |
 
 ---
 
@@ -145,6 +145,42 @@ Plataformas, repositórios e recursos da comunidade.
 - **All-Hands-AI/OpenHands** (64k⭐) - AI software engineer
 
 ---
+
+### 🌟 17 - COLEÇÕES AVANÇADAS (Advanced Collections)
+
+Coleções curadas dos melhores repositórios de IA.
+
+| # | Tema | Recursos | Descrição |
+|---|---|---|---|
+| 17.1 | [**Top 100 Repositórios de IA**](./17_ADVANCED_COLLECTIONS/ADVANCED_AI_REPOSITORIES_2025.md) | 100 | Top repos (2.08M+ ⭐) |
+| 17.2 | [**Recursos de Aprendizagem**](./17_ADVANCED_COLLECTIONS/LEARNING_RESOURCES_2025.md) | 50 | Top learning resources (1M+ ⭐) |
+
+**Destaques:**
+- **microsoft/ML-For-Beginners** (78.4k⭐) - 12 semanas de ML
+- **netdata/netdata** (76.5k⭐) - Observabilidade com IA
+- **d2l-ai/d2l-zh** (73.6k⭐) - Dive into Deep Learning
+- **deepfakes/faceswap** (54.6k⭐) - Software de deepfakes
+
+---
+
+
+### 🌟 17 - COLEÇÕES AVANÇADAS (Advanced Collections)
+
+Coleções curadas dos melhores repositórios de IA.
+
+| # | Tema | Recursos | Descrição |
+|---|---|---|---|
+| 17.1 | [**Top 100 Repositórios de IA**](./17_ADVANCED_COLLECTIONS/ADVANCED_AI_REPOSITORIES_2025.md) | 100 | Top repos (2.08M+ ⭐) |
+| 17.2 | [**Recursos de Aprendizagem**](./17_ADVANCED_COLLECTIONS/LEARNING_RESOURCES_2025.md) | 50 | Top learning resources (1M+ ⭐) |
+
+**Destaques:**
+- **microsoft/ML-For-Beginners** (78.4k⭐) - 12 semanas de ML
+- **netdata/netdata** (76.5k⭐) - Observabilidade com IA
+- **d2l-ai/d2l-zh** (73.6k⭐) - Dive into Deep Learning
+- **deepfakes/faceswap** (54.6k⭐) - Software de deepfakes
+
+---
+
 
 ## 🎨 Navegação por Caso de Uso
 
