@@ -4,7 +4,7 @@
 **Fonte:** Compilação multitemática com foco em aplicações de negócios (900+ recursos)  
 **Total de Novos Repositórios Únicos:** 9
 
-Este documento lista repositórios de IA para aplicações de negócios, incluindo apostas esportivas, finanças, e-commerce, geo e vídeo, que foram validados e considerados adições únicas ao `Awesome-AI-Models-Collection`.
+Este documento lista repositórios de IA para aplicações de negócios, incluindo apostas esportivas, finanças, e-commerce, geo e vídeo, que foram validados e considerados adições únicas ao `AIForge`.
 
 ---
 

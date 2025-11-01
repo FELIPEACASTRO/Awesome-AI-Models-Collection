@@ -4,7 +4,7 @@
 **Fonte:** Análise de relatório de busca de repositórios de IA avançados  
 **Total de Novas Listas Únicas:** 5
 
-Este documento lista coleções "Awesome" de alta qualidade que foram validadas e consideradas adições únicas ao `Awesome-AI-Models-Collection`.
+Este documento lista coleções "Awesome" de alta qualidade que foram validadas e consideradas adições únicas ao `AIForge`.
 
 ---
 

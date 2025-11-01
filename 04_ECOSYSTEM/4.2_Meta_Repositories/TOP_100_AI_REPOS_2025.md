@@ -4,7 +4,7 @@
 **Fonte:** Compilação do TOP 100 repositórios mais influentes do GitHub  
 **Total de Novos Repositórios Únicos:** 2
 
-Este documento lista repositórios de IA do TOP 100 GitHub que foram validados e considerados adições únicas ao `Awesome-AI-Models-Collection`.
+Este documento lista repositórios de IA do TOP 100 GitHub que foram validados e considerados adições únicas ao `AIForge`.
 
 ---
 

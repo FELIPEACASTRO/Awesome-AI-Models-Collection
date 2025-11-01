@@ -4,7 +4,7 @@
 **Fonte:** Análise de arquivo externo com 7.000+ repositórios  
 **Total de Novos Repositórios Únicos:** 35
 
-Este documento lista os repositórios de IA estado-da-arte que foram validados e considerados adições únicas ao `Awesome-AI-Models-Collection`.
+Este documento lista os repositórios de IA estado-da-arte que foram validados e considerados adições únicas ao `AIForge`.
 
 ---
 

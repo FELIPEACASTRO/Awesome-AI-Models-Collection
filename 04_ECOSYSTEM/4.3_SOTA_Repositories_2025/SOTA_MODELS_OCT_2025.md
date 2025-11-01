@@ -4,7 +4,7 @@
 **Fonte:** Compilação focada em modelos multimodais, ViT, Federated Learning, etc. (932 linhas)  
 **Total de Novos Repositórios Únicos:** 18
 
-Este documento lista repositórios de IA estado-da-arte (SOTA) que foram validados e considerados adições únicas ao `Awesome-AI-Models-Collection`.
+Este documento lista repositórios de IA estado-da-arte (SOTA) que foram validados e considerados adições únicas ao `AIForge`.
 
 ---
 

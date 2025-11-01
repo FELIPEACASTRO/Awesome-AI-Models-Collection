@@ -1,6 +1,6 @@
 # 11_UNIVERSITY_ORGS - Organizações GitHub de Universidades e Research Labs
 
-Este diretório contém organizações GitHub de universidades e laboratórios de pesquisa líderes em IA, validadas e filtradas para incluir apenas recursos únicos não presentes anteriormente no `Awesome-AI-Models-Collection`.
+Este diretório contém organizações GitHub de universidades e laboratórios de pesquisa líderes em IA, validadas e filtradas para incluir apenas recursos únicos não presentes anteriormente no `AIForge`.
 
 ## 📁 Conteúdo
 

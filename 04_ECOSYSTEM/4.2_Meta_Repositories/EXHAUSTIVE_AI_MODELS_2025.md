@@ -49,4 +49,4 @@ Este arquivo, apesar de ter alta sobreposição com nosso conteúdo existente (8
 - **Robótica (Awesome Robotics Foundation Models)**
 - **Saúde (Healthcare AI Examples)**
 
-Essa adição solidifica ainda mais a posição do **Awesome-AI-Models-Collection** como a coleção mais completa e atualizada de recursos de IA, agora com cobertura expandida em áreas científicas e de pesquisa de ponta.
+Essa adição solidifica ainda mais a posição do **AIForge** como a coleção mais completa e atualizada de recursos de IA, agora com cobertura expandida em áreas científicas e de pesquisa de ponta.

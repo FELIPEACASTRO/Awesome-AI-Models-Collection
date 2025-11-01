@@ -4,7 +4,7 @@
 **Fonte:** Análise de compilação especializada em Biomass AI (1000+ recursos)  
 **Total de Novos Repositórios Únicos:** 2
 
-Este documento lista repositórios de IA para biomassa e imagens de satélite que foram validados e considerados adições únicas ao `Awesome-AI-Models-Collection`.
+Este documento lista repositórios de IA para biomassa e imagens de satélite que foram validados e considerados adições únicas ao `AIForge`.
 
 ---
 

@@ -1,10 +1,10 @@
-# 🤖 Awesome AI Models Collection
+# 🤖 AIForge
 
 > **O MAIOR repositório curatorial de recursos de IA no GitHub**
 
 <p align="center">
-  <a href="https://github.com/FELIPEACASTRO/Awesome-AI-Models-Collection/stargazers"><img src="https://img.shields.io/github/stars/FELIPEACASTRO/Awesome-AI-Models-Collection?style=social" alt="Stars"></a>
-  <a href="https://github.com/FELIPEACASTRO/Awesome-AI-Models-Collection/network/members"><img src="https://img.shields.io/github/forks/FELIPEACASTRO/Awesome-AI-Models-Collection?style=social" alt="Forks"></a>
+  <a href="https://github.com/FELIPEACASTRO/AIForge/stargazers"><img src="https://img.shields.io/github/stars/FELIPEACASTRO/AIForge?style=social" alt="Stars"></a>
+  <a href="https://github.com/FELIPEACASTRO/AIForge/network/members"><img src="https://img.shields.io/github/forks/FELIPEACASTRO/AIForge?style=social" alt="Forks"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 </p>
@@ -214,7 +214,7 @@ Coleções curadas dos melhores repositórios de IA.
 
 | Repositório | Recursos | Stars | vs Nosso |
 |---|---|---|---|
-| **Awesome AI Models Collection** | **14.734+** | - | **1.0x** |
+| **AIForge** | **14.734+** | - | **1.0x** |
 | Awesome Machine Learning | 1.268 | 65k | **11.6x menor** |
 | Awesome Deep Learning | 610 | 23k | **24.1x menor** |
 | Transferlearning | 1.000 | 14k | **14.7x menor** |
@@ -230,10 +230,10 @@ Coleções curadas dos melhores repositórios de IA.
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/FELIPEACASTRO/Awesome-AI-Models-Collection.git
+git clone https://github.com/FELIPEACASTRO/AIForge.git
 
 # Navegar para o diretório
-cd Awesome-AI-Models-Collection
+cd AIForge
 ```
 
 ### Navegação
@@ -257,9 +257,9 @@ cat SOTA_MODELS_OCT_2025.md
 Use a busca do GitHub para encontrar recursos específicos:
 
 ```
-repo:FELIPEACASTRO/Awesome-AI-Models-Collection "GPT-5"
-repo:FELIPEACASTRO/Awesome-AI-Models-Collection "fraud detection"
-repo:FELIPEACASTRO/Awesome-AI-Models-Collection "dataset"
+repo:FELIPEACASTRO/AIForge "GPT-5"
+repo:FELIPEACASTRO/AIForge "fraud detection"
+repo:FELIPEACASTRO/AIForge "dataset"
 ```
 
 ---
@@ -302,7 +302,7 @@ Contribuições são muito bem-vindas! Siga os passos abaixo:
 ```bash
 # Fazer fork via GitHub
 # Clonar seu fork
-git clone https://github.com/SEU-USUARIO/Awesome-AI-Models-Collection.git
+git clone https://github.com/SEU-USUARIO/AIForge.git
 ```
 
 ### 2. Criar uma Branch

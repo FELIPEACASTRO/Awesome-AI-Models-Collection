@@ -1,6 +1,6 @@
 # 10_SOTA_REPOS_2025 - Repositórios Estado-da-Arte (Outubro 2025)
 
-Este diretório contém repositórios de IA estado-da-arte descobertos através de análise de arquivo externo contendo 7.000+ repositórios, validados e filtrados para incluir apenas recursos únicos não presentes anteriormente no `Awesome-AI-Models-Collection`.
+Este diretório contém repositórios de IA estado-da-arte descobertos através de análise de arquivo externo contendo 7.000+ repositórios, validados e filtrados para incluir apenas recursos únicos não presentes anteriormente no `AIForge`.
 
 ## 📁 Conteúdo
 

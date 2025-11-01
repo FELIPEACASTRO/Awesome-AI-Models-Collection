@@ -1,6 +1,6 @@
 # 🤝 Guia de Contribuição
 
-Obrigado por seu interesse em contribuir para o **Awesome AI Models Collection**! Sua ajuda é fundamental para manter este repositório atualizado e relevante.
+Obrigado por seu interesse em contribuir para o **AIForge**! Sua ajuda é fundamental para manter este repositório atualizado e relevante.
 
 ## 🚀 Como Contribuir
 
@@ -16,7 +16,7 @@ Obrigado por seu interesse em contribuir para o **Awesome AI Models Collection**
 Use a busca do GitHub para garantir que o recurso ainda não foi adicionado:
 
 ```
-repo:FELIPEACASTRO/Awesome-AI-Models-Collection "NOME_DO_RECURSO"
+repo:FELIPEACASTRO/AIForge "NOME_DO_RECURSO"
 ```
 
 ### 3. Adicione o Recurso
@@ -72,6 +72,6 @@ Seja respeitoso e construtivo em todas as interações. Siga o [Código de Condu
 
 ## ❓ Dúvidas
 
-Se tiver alguma dúvida, abra uma [issue](https://github.com/FELIPEACASTRO/Awesome-AI-Models-Collection/issues).
+Se tiver alguma dúvida, abra uma [issue](https://github.com/FELIPEACASTRO/AIForge/issues).
 
 Obrigado por sua contribuição! 🎉

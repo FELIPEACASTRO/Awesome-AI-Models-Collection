@@ -4,7 +4,7 @@
 **Fonte:** Compilação de métodos de ensemble learning  
 **Total de Repositórios Únicos:** 33
 
-Este documento lista repositórios de ensemble learning, AutoML, boosting e técnicas avançadas que foram validados e considerados adições únicas ao `Awesome-AI-Models-Collection`.
+Este documento lista repositórios de ensemble learning, AutoML, boosting e técnicas avançadas que foram validados e considerados adições únicas ao `AIForge`.
 
 ---
 

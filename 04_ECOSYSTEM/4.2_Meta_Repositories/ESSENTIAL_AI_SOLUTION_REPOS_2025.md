@@ -46,4 +46,4 @@ Embora a maioria dos repositórios já estivesse coberta, os **7 novos recursos*
 - **Treinamento Distribuído (DeepSpeed)**
 - **MLOps (whylogs, Neptune)**
 
-Essa adição torna o **Awesome-AI-Models-Collection** ainda mais completo como um guia para construir soluções de IA do início ao fim.
+Essa adição torna o **AIForge** ainda mais completo como um guia para construir soluções de IA do início ao fim.

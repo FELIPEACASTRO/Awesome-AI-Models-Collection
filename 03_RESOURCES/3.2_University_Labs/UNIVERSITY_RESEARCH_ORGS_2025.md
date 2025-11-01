@@ -4,7 +4,7 @@
 **Fonte:** Compilação de instituições líderes em IA  
 **Total de Organizações Únicas:** 36
 
-Este documento lista as organizações GitHub de universidades e laboratórios de pesquisa que foram validadas e consideradas adições únicas ao `Awesome-AI-Models-Collection`.
+Este documento lista as organizações GitHub de universidades e laboratórios de pesquisa que foram validadas e consideradas adições únicas ao `AIForge`.
 
 ---
 

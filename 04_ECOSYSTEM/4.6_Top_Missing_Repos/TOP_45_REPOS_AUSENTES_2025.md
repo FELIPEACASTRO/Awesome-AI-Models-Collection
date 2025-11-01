@@ -1,6 +1,6 @@
 # Top 45 Repositórios de IA Ausentes - Outubro de 2025
 
-Este documento lista 45 repositórios de IA de alta qualidade, únicos e de código aberto, que não estavam presentes no repositório Awesome-AI-Models-Collection em 31 de Outubro de 2025.
+Este documento lista 45 repositórios de IA de alta qualidade, únicos e de código aberto, que não estavam presentes no repositório AIForge em 31 de Outubro de 2025.
 
 | Categoria | Repositórios | Estrelas Combinadas |
 |-----------|--------------|---------------------|

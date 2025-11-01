@@ -1,4 +1,4 @@
-# Visão Geral da Organização - Awesome-AI-Models-Collection
+# Visão Geral da Organização - AIForge
 
 **Data:** 31 de Outubro de 2025  
 **Autor:** Manus AI
@@ -7,7 +7,7 @@
 
 ## 🚀 Introdução
 
-Este documento fornece uma visão geral completa da organização do repositório **Awesome-AI-Models-Collection**, detalhando sua estrutura, estatísticas, e conteúdo. O objetivo é oferecer um guia claro para navegar e utilizar os **14.889+ recursos** disponíveis.
+Este documento fornece uma visão geral completa da organização do repositório **AIForge**, detalhando sua estrutura, estatísticas, e conteúdo. O objetivo é oferecer um guia claro para navegar e utilizar os **14.889+ recursos** disponíveis.
 
 ---
 
@@ -101,7 +101,7 @@ Coleções curadas dos melhores repositórios de IA.
 
 ## ✅ Conclusão
 
-O repositório **Awesome-AI-Models-Collection** está altamente organizado, com uma estrutura hierárquica clara, documentação abrangente e estatísticas atualizadas. Os gráficos de visualização ajudam a entender a distribuição do conteúdo, e a análise contínua de novos recursos garante que o repositório permaneça relevante e valioso para a comunidade de IA.
+O repositório **AIForge** está altamente organizado, com uma estrutura hierárquica clara, documentação abrangente e estatísticas atualizadas. Os gráficos de visualização ajudam a entender a distribuição do conteúdo, e a análise contínua de novos recursos garante que o repositório permaneça relevante e valioso para a comunidade de IA.
 
 ---
 
