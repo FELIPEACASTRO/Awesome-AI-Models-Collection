@@ -76,4 +76,4 @@ Este documento lista as organizações GitHub de universidades e laboratórios d
 ---
 
 **Última Atualização:** 30 de Outubro de 2025  
-**Mantido por:** Manus AI
+**Mantido por:** IA

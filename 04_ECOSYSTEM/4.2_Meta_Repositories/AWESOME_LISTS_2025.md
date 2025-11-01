@@ -45,4 +45,4 @@ Este documento lista coleções "Awesome" de alta qualidade que foram validadas 
 ## 📅 Data de Atualização
 
 **Última Atualização:** 30 de Outubro de 2025  
-**Mantido por:** Manus AI
+**Mantido por:** IA

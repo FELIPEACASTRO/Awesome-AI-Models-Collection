@@ -626,6 +626,6 @@ A maioria dos recursos está concentrada em **institutos de pesquisa acadêmica*
 ---
 
 **Criado em:** 29 de Outubro de 2025  
-**Análise Realizada por:** Manus AI Agent  
+**Análise Realizada por:** IA  
 **Método:** Processamento Paralelo de 30 URLs  
 **Status:** ✅ Completo

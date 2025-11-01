@@ -63,6 +63,6 @@ Outros modelos especializados que não se encaixam nas categorias acima.
 
 ---
 
-**Mantido por:** Manus AI  
+**Mantido por:** IA  
 **Data de Criação:** Outubro 30, 2025  
 **Última Atualização:** Outubro 30, 2025

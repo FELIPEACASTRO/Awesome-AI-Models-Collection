@@ -64,4 +64,4 @@ Este documento lista repositórios de IA estado-da-arte (SOTA) que foram validad
 ## 📅 Data de Atualização
 
 **Última Atualização:** 30 de Outubro de 2025  
-**Mantido por:** Manus AI
+**Mantido por:** IA

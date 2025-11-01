@@ -30,4 +30,4 @@ Este documento lista repositórios de IA do TOP 100 GitHub que foram validados e
 ## 📅 Data de Atualização
 
 **Última Atualização:** 30 de Outubro de 2025  
-**Mantido por:** Manus AI
+**Mantido por:** IA

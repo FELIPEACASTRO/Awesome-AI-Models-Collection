@@ -26,4 +26,4 @@ Este documento lista repositórios de IA para biomassa e imagens de satélite qu
 ## 📅 Data de Atualização
 
 **Última Atualização:** 30 de Outubro de 2025  
-**Mantido por:** Manus AI
+**Mantido por:** IA

@@ -88,7 +88,7 @@ Lista completa de 35 repositórios únicos e validados, incluindo:
 
 ## 👤 Mantido por
 
-**Manus AI** - Análise e validação automatizada
+**IA** - Análise e validação automatizada
 
 ## 🔗 Links Úteis
 

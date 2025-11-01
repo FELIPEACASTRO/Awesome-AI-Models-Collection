@@ -233,7 +233,7 @@ Ensemble methods typically provide:
 
 ## 👤 Mantido por
 
-**Manus AI** - Análise e validação automatizada
+**IA** - Análise e validação automatizada
 
 ## 🔗 Links Úteis
 

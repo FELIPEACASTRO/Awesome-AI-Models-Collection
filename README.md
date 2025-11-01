@@ -2,380 +2,321 @@
 
 > **O MAIOR repositório curatorial de recursos de IA no GitHub**
 
-[![Stars](https://img.shields.io/github/stars/FELIPEACASTRO/Awesome-AI-Models-Collection?style=social)](https://github.com/FELIPEACASTRO/Awesome-AI-Models-Collection/stargazers)
-[![Forks](https://img.shields.io/github/forks/FELIPEACASTRO/Awesome-AI-Models-Collection?style=social)](https://github.com/FELIPEACASTRO/Awesome-AI-Models-Collection/network/members)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <a href="https://github.com/FELIPEACASTRO/Awesome-AI-Models-Collection/stargazers"><img src="https://img.shields.io/github/stars/FELIPEACASTRO/Awesome-AI-Models-Collection?style=social" alt="Stars"></a>
+  <a href="https://github.com/FELIPEACASTRO/Awesome-AI-Models-Collection/network/members"><img src="https://img.shields.io/github/forks/FELIPEACASTRO/Awesome-AI-Models-Collection?style=social" alt="Forks"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+</p>
 
-**14,350+ recursos** cuidadosamente curados de Inteligência Artificial, Machine Learning, Deep Learning e muito mais!
-
-**33.9X maior** que outros repositórios curatoriais populares.
-
----
-
-## 📊 Estatísticas
-
-- 🎯 **14,699+ recursos** únicos
-- 📁 **17 temas** principais organizados
-- 📄 **53 documentos** estruturados
-- 🌐 **37 plataformas** exploradas
-- 🎓 **200+ universidades** cobertas
-- ☁️ **3 cloud providers** (AWS, Google, Microsoft)
-- 💾 **20 commits** documentados
-- ⭐ **100% taxa de sucesso**
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Recursos-14,699%2B-blue?style=for-the-badge" alt="Total de Recursos">
+  <img src="https://img.shields.io/badge/Temas-17-green?style=for-the-badge" alt="Total de Temas">
+  <img src="https://img.shields.io/badge/Documentos-76%2B-orange?style=for-the-badge" alt="Total de Documentos">
+  <img src="https://img.shields.io/badge/Atualizado-Outubro%202025-red?style=for-the-badge" alt="Atualizado">
+</p>
 
 ---
 
-## 🗂️ Estrutura Organizada por Temas
+## 📊 Estatísticas Rápidas
 
-```
-Awesome-AI-Models-Collection/
-├── 📁 01_ALGORITHMS/              # 4,650+ algoritmos
-├── 📁 02_MODELS/                  # 3,900+ modelos de IA
-├── 📁 03_DATASETS/                # 730+ datasets
-├── 📁 04_PLATFORMS/               # 37 plataformas
-├── 📁 05_REPOSITORIES/            # 1,000+ repos GitHub
-├── 📁 06_SPECIALIZED/             # 461 recursos especializados
-├── 📁 07_RESOURCES/               # 2,000+ recursos diversos
-├── 📁 08_ULTIMATE/                # Coleção ultimate
-├── 📁 09_ADVANCED_MODELS/         # 51+ recursos avançados (2025)
-├── 📁 10_SOTA_REPOS_2025/         # 35 repos estado-da-arte (Out 2025)
-├── 📁 11_UNIVERSITY_ORGS/         # 36 orgs universitárias (2025)
-├── 📁 12_ENSEMBLE_LEARNING/       # 33 repos ensemble learning (2025)
-└── 📁 13_NICHE_AI_MODELS/         # 86 repos nichos especializados (2025)
-### 1️⃣4️⃣ [Recursos Gerais de IA](14_GENERAL_AI_MODELS/) - 100 repos 🆕
-
-**Validação de 137 Repositórios:**
-- 105 repositórios únicos validados
-- 236k+ stars combinadas
-
-**Destaques:**
-- google-research/tuning_playbook (29.3k ⭐)
-- tensorflow/tensor2tensor (16.7k ⭐)
-- fchollet/deep-learning-models (7.4k ⭐)
-### 1️⃣5️⃣ [Top Repositórios Ausentes](15_TOP_REPOS_AUSENTES/) - 42 repos 🆕
-### 1️⃣6️⃣ [Diretórios de IA](16_AI_DIRECTORIES/) - 12 recursos 🆕
-### 1️⃣7️⃣ [Recursos de Arquivos de Texto](17_PASTED_RESOURCES/) - 26 repos 🆕
-
-**Validação de 53 URLs:**
-- 26 repositórios únicos validados
-- 618k+ estrelas combinadas
-
-**Categorias:**
-- AI Coding Assistants (13 repos - 168k⭐)
-- AI Agents & Frameworks (6 repos - 220k⭐)
-- LLM Libraries & Tools (4 repos - 209k⭐)
-- Browser Automation, Learning, Specialized
-├── 📁 17_PASTED_RESOURCES/        # 26 repositórios de arquivos (2025)
-
-**Diretórios Web (9):**
-- theresanaiforthat.com (39k+ ferramentas)
-- futurepedia.io (5.5k+ ferramentas)
-- toolify.ai (7k+ ferramentas)
-
-**Repositórios GitHub (3):**
-- jmorganca/ollama (155k ⭐)
-- Shubhamsaboo/awesome-llm-apps (74k ⭐)
-- best-of-ai/ai-directories (618 ⭐)
-├── 📁 16_AI_DIRECTORIES/         # 12 recursos de diretórios (2025)
-### 1️⃣7️⃣ [Recursos de Arquivos de Texto](17_PASTED_RESOURCES/) - 26 repos 🆕
-
-**Validação de 53 URLs:**
-- 26 repositórios únicos validados
-- 618k+ estrelas combinadas
-
-**Categorias:**
-- AI Coding Assistants (13 repos - 168k⭐)
-- AI Agents & Frameworks (6 repos - 220k⭐)
-- LLM Libraries & Tools (4 repos - 209k⭐)
-- Browser Automation, Learning, Specialized
-├── 📁 17_PASTED_RESOURCES/        # 26 repositórios de arquivos (2025)
-
-**Validação de 95 Repositórios:**
-- 45 repositórios únicos validados
-- 1.2M+ stars combinadas
-
-**Destaques:**
-- hacksider/Deep-Live-Cam (74k ⭐) - Real-time face swap
-- mlabonne/llm-course (66k ⭐) - LLM learning course
-- infiniflow/ragflow (66k ⭐) - RAG engine
-```
+| Métrica | Valor | Comparação |
+|---------|-------|------------|
+| 🎯 **Total de Recursos** | 14.699+ | **33.9X maior** que outros repos |
+| 📁 **Temas Organizados** | 17 | Estrutura hierárquica |
+| 📄 **Documentos** | 76+ | Profissionalmente formatados |
+| 🌐 **Plataformas** | 37 | AWS, Google, Azure |
+| 🎓 **Universidades** | 200+ | Cobertura global |
+| ⭐ **Estrelas Combinadas** | 2M+ | Repositórios validados |
 
 ---
 
-## 🎨 Navegue por Tema
+## 🚀 Guia de Início Rápido
 
-### 1️⃣ [Algoritmos](01_ALGORITHMS/) - 4,650+ recursos
+### Para Iniciantes
 
-**Categorias:**
-- Classificação (200+) | Regressão (200+) | Clustering (200+)
-- Otimização (200+) | Ensemble (100+) | Computer Vision (200+)
-- NLP (200+) | Reinforcement Learning (200+) | Time Series (200+)
-- Graph AI (200+) | Low/High Complexity (200+)
+1. **Comece aqui:** [Ultimate Collection](./08_ULTIMATE/ULTIMATE_AI_COLLECTION.md) - Recursos essenciais
+2. **Aprenda:** [Recursos de Aprendizagem](./03_RESOURCES/3.1_Learning_Resources/) - Tutoriais e cursos
+3. **Explore:** Navegue pelas categorias abaixo
 
-### 2️⃣ [Modelos de IA](02_MODELS/) - 3,900+ recursos
+### Para Desenvolvedores
 
-**Modelos de Última Geração:**
-- OpenAI (GPT-5, GPT-4, o1, o3, DALL-E, Sora)
-- Anthropic (Claude 4.x, 3.x)
-- Google/DeepMind (Gemini, Gemma, PaLM)
-- Meta (Llama 4.x) | Mistral AI | xAI | DeepSeek
+1. **Modelos:** [Modelos Core](./01_FOUNDATIONS/1.2_Core_Models/) - GPT-5, Claude, Gemini, Llama
+2. **Código:** [AI Coding Assistants](./04_ECOSYSTEM/4.7_User_Submitted_Repos/) - 13 ferramentas
+3. **APIs:** [Plataformas e Ferramentas](./04_ECOSYSTEM/4.1_Platforms_and_Tools/) - MLOps, APIs
 
-**Cloud Models:**
-- AWS SageMaker (500+) | Google Vertex AI (200+) | Azure AI (1,900+)
+### Para Pesquisadores
 
-### 3️⃣ [Datasets](03_DATASETS/) - 730+ recursos
-
-- HuggingFace Top Datasets | Kaggle | UCI ML Repository
-- Banking Datasets (135) | Academic | Government Open Data
-
-### 4️⃣ [Plataformas](04_PLATFORMS/) - 37 plataformas
-
-**Consolidado:**
-- Awesome Machine Learning (1,268) | Awesome Deep Learning (610)
-- Transferlearning (151) | HF Top 100 Models & Datasets
-
-### 5️⃣ [Repositórios GitHub](05_REPOSITORIES/) - 1,000+ repos
-
-- 351 repos em 11 categorias | 23 repos de 200+ universidades
-- Frameworks | Bibliotecas | Ferramentas
-
-### 6️⃣ [Especializados](06_SPECIALIZED/) - 461 recursos
-
-**Fraud Detection (140):** Crédito/Débito | Banking | AML  
-**Banking AI (186):** Modelos | Risk Scoring | Monitoring  
-**Banking Data (135):** Datasets | Features | Transfer Learning
-
-### 7️⃣ [Recursos Diversos](07_RESOURCES/) - 2,000+ recursos
-
-- MLOps (100+) | Frameworks (100+) | Benchmarks (100+)
-- URLs Diretas (357+) | Transfer Learning (217+)
-
-### 8️⃣ [Ultimate Collection](08_ULTIMATE/)
-
-Coleção consolidada dos recursos mais importantes.
-
-### 9️⃣ [Recursos Avançados 2025](09_ADVANCED_MODELS/) - 51+ recursos 🆕
-
-**Modelos SOTA (15):**
-- YOLOv12, GPT-5, OpenAI o3, Sora, Veo 3
-- Llama 3.1/3.3, Code Llama, Stable Diffusion XL
-- GPT-4V, BLIP, Whisper, sentence-transformers
-
-**Transfer Learning (15):**
-- Frameworks: Hugging Face Transformers, ADAPT, PEFT
-- Técnicas: LoRA, ULMFiT, Knowledge Distillation
-- Few-Shot/Zero-Shot: CLIP, Prototypical Networks
-- Meta-Learning: learn2learn, MAML
-
-**Datasets Especializados (15+):**
-- Neuroimagem: OpenNeuro (1,240+ datasets)
-- Finanças: Stock Market (2.75 GB)
-- Direção Autônoma: KITTI, nuScenes
-- Visão: ImageNet (14M+), COCO
-
-**Feature Engineering (6):**
-- Bibliotecas: scikit-learn, Feature-engine, Featuretools, SHAP
-- Redução: PCA, t-SNE, UMAP
-- Importance: XGBoost
-
-### 🔟 [Repositórios SOTA 2025](10_SOTA_REPOS_2025/) - 35 repos 🆕
-
-**Validação de 7.000+ Repositórios:**
-- 35 repositórios únicos validados
-- 200k+ stars combinadas
-- Categorias: LLMs, Multimodal, Generative AI, Robotics, 3D, Code Gen
-
-**Destaques:**
-- mozilla/DeepSpeech (26.6k ⭐) - Speech-to-text
-- Stability-AI/generative-models (26.5k ⭐)
-- microsoft/BitNet (24.3k ⭐) - 1-bit LLMs
-- state-spaces/mamba (16.3k ⭐) - Mamba SSM
-- BlinkDL/RWKV-LM (14.1k ⭐) - RWKV-7
-
-### 1️⃣1️⃣ [Organizações Universitárias](11_UNIVERSITY_ORGS/) - 36 orgs 🆕
-
-**Validação de 94 Organizações GitHub:**
-- 71 organizações válidas (75% taxa de sucesso)
-- 36 organizações únicas (50.7% unicidade)
-- 2.000+ repositórios públicos combinados
-
-**Destaques:**
-- Imperial College London (707 repos)
-- University College London (331 repos)
-- THUNLP - Tsinghua NLP (259 repos)
-- Stanford ASL (155 repos)
-- LAION AI (108 repos)
-
-**Cobertura:**
-- 28 universidades de prestígio mundial
-- 8 institutos de pesquisa independentes
-- América do Norte, Ásia, Europa
-
-### 1️⃣2️⃣ [Ensemble Learning](12_ENSEMBLE_LEARNING/) - 33 repos 🆕
-
-**Validação de 81 Repositórios:**
-- 73 repositórios válidos (90% taxa de sucesso)
-- 33 repositórios únicos (45.2% unicidade)
-- 150k+ stars combinadas
-
-**Destaques:**
-- google-research/google-research (36.6k ⭐)
-- NVIDIA/DeepLearningExamples (14.5k ⭐)
-- bloomberg/memray (14.5k ⭐)
-- facebookresearch/maskrcnn-benchmark (9.4k ⭐)
-- scikit-learn-contrib/imbalanced-learn (7.1k ⭐)
-
-**Categorias:**
-- Deep Learning Frameworks (8 repos)
-- Ensemble Libraries (5 repos)
-- Hyperparameter Optimization (2 repos)
-- Boosting, AutoML, Bayesian Methods
-
-### 1️⃣3️⃣ [Niche AI Models](13_NICHE_AI_MODELS/) - 86 repos 🆕
-### 1️⃣4️⃣ [Recursos Gerais de IA](14_GENERAL_AI_MODELS/) - 100 repos 🆕
-
-**Validação de 137 Repositórios:**
-- 105 repositórios únicos validados
-- 236k+ stars combinadas
-
-**Destaques:**
-- google-research/tuning_playbook (29.3k ⭐)
-- tensorflow/tensor2tensor (16.7k ⭐)
-- fchollet/deep-learning-models (7.4k ⭐)
-### 1️⃣5️⃣ [Top Repositórios Ausentes](15_TOP_REPOS_AUSENTES/) - 42 repos 🆕
-### 1️⃣6️⃣ [Diretórios de IA](16_AI_DIRECTORIES/) - 12 recursos 🆕
-### 1️⃣7️⃣ [Recursos de Arquivos de Texto](17_PASTED_RESOURCES/) - 26 repos 🆕
-
-**Validação de 53 URLs:**
-- 26 repositórios únicos validados
-- 618k+ estrelas combinadas
-
-**Categorias:**
-- AI Coding Assistants (13 repos - 168k⭐)
-- AI Agents & Frameworks (6 repos - 220k⭐)
-- LLM Libraries & Tools (4 repos - 209k⭐)
-- Browser Automation, Learning, Specialized
-├── 📁 17_PASTED_RESOURCES/        # 26 repositórios de arquivos (2025)
-
-**Diretórios Web (9):**
-- theresanaiforthat.com (39k+ ferramentas)
-- futurepedia.io (5.5k+ ferramentas)
-- toolify.ai (7k+ ferramentas)
-
-**Repositórios GitHub (3):**
-- jmorganca/ollama (155k ⭐)
-- Shubhamsaboo/awesome-llm-apps (74k ⭐)
-- best-of-ai/ai-directories (618 ⭐)
-├── 📁 16_AI_DIRECTORIES/         # 12 recursos de diretórios (2025)
-### 1️⃣7️⃣ [Recursos de Arquivos de Texto](17_PASTED_RESOURCES/) - 26 repos 🆕
-
-**Validação de 53 URLs:**
-- 26 repositórios únicos validados
-- 618k+ estrelas combinadas
-
-**Categorias:**
-- AI Coding Assistants (13 repos - 168k⭐)
-- AI Agents & Frameworks (6 repos - 220k⭐)
-- LLM Libraries & Tools (4 repos - 209k⭐)
-- Browser Automation, Learning, Specialized
-├── 📁 17_PASTED_RESOURCES/        # 26 repositórios de arquivos (2025)
-
-**Validação de 95 Repositórios:**
-- 45 repositórios únicos validados
-- 1.2M+ stars combinadas
-
-**Destaques:**
-- hacksider/Deep-Live-Cam (74k ⭐) - Real-time face swap
-- mlabonne/llm-course (66k ⭐) - LLM learning course
-- infiniflow/ragflow (66k ⭐) - RAG engine
-
-**Validação de 159 Repositórios:**
-- 143 repositórios válidos (90% taxa de sucesso)
-- 86 repositórios únicos (60% unicidade)
-- Foco em nichos especializados
-
-**Categorias:**
-- Audio & Music AI
-- Video Generation & Analysis
-- Code Generation & Analysis
-- Medical & Scientific AI
-- Time Series & Forecasting
-- Graph Neural Networks
-- Reinforcement Learning
-- Other Specialized Models
+1. **SOTA:** [Repositórios SOTA 2025](./04_ECOSYSTEM/4.3_SOTA_Repositories_2025/) - 35 repos
+2. **Papers:** [Laboratórios Universitários](./03_RESOURCES/3.2_University_Labs/) - 36 orgs
+3. **Datasets:** [Datasets](./01_FOUNDATIONS/1.3_Datasets/) - 730+ datasets
 
 ---
 
-## 🚀 Como Usar
+## 📂 Estrutura do Repositório
 
-### Navegação Rápida
+O repositório está organizado em **4 categorias principais** com **17 temas**:
+
+### 🏛️ 01 - FUNDAMENTOS (Foundations)
+
+Base essencial para entender e trabalhar com IA.
+
+| # | Tema | Recursos | Descrição |
+|---|------|----------|-----------|
+| 1.1 | [**Algoritmos**](./01_FOUNDATIONS/1.1_Algorithms/) | 4.650+ | Algoritmos fundamentais de ML/DL |
+| 1.2 | [**Modelos Core**](./01_FOUNDATIONS/1.2_Core_Models/) | 3.900+ | GPT-5, Claude 4.x, Gemini, Llama, Mistral |
+| 1.3 | [**Datasets**](./01_FOUNDATIONS/1.3_Datasets/) | 730+ | HuggingFace, Kaggle, UCI, Banking |
+
+**Destaques dos Modelos Core:**
+- **OpenAI:** GPT-5, GPT-4, o1, o3, DALL-E, Sora
+- **Anthropic:** Claude 4.5 Sonnet, Claude 3.7 Haiku
+- **Google/DeepMind:** Gemini 2.5/3.0, Gemma, PaLM
+- **Meta:** Llama 4.x, Llama 3.3 70B
+- **Cloud Models:** AWS SageMaker (500+), Google Vertex AI (200+), Azure AI (1.900+)
+
+---
+
+### 🎯 02 - APLICAÇÕES (Applications)
+
+Modelos e ferramentas para domínios específicos.
+
+| # | Tema | Recursos | Descrição |
+|---|------|----------|-----------|
+| 2.1 | [**Aplicações Especializadas**](./02_APPLICATIONS/2.1_Specialized_Applications/) | 461 | Banking (186), Fraud Detection (140), Biomass, Business |
+| 2.2 | [**Modelos de Nicho**](./02_APPLICATIONS/2.2_Niche_Models/) | 86 | Audio, Video, Code Gen, Medical, Time Series, GNN, RL |
+
+**Categorias de Nicho (86 repos validados):**
+- 🎵 Audio & Music AI
+- 🎬 Video Generation & Analysis
+- 💻 Code Generation & Analysis
+- 🏥 Medical & Scientific AI
+- 📈 Time Series & Forecasting
+- 🕸️ Graph Neural Networks
+- 🎮 Reinforcement Learning
+
+---
+
+### 📖 03 - RECURSOS (Resources)
+
+Materiais de aprendizagem e referência.
+
+| # | Tema | Recursos | Descrição |
+|---|------|----------|-----------|
+| 3.1 | [**Recursos de Aprendizagem**](./03_RESOURCES/3.1_Learning_Resources/) | 2.000+ | Tutoriais, cursos, guias, MLOps, frameworks |
+| 3.2 | [**Laboratórios Universitários**](./03_RESOURCES/3.2_University_Labs/) | 36 orgs | Imperial, UCL, Tsinghua, Stanford, LAION |
+| 3.3 | [**Diretórios de IA**](./03_RESOURCES/3.3_AI_Directories/) | 12 | 60.000+ ferramentas de IA acessíveis |
+
+**Destaques dos Diretórios:**
+- **theresanaiforthat.com** - 39.000+ ferramentas
+- **futurepedia.io** - 5.500+ ferramentas
+- **toolify.ai** - 7.000+ ferramentas
+- **jmorganca/ollama** - 155k⭐ (executar LLMs localmente)
+
+---
+
+### 🌐 04 - ECOSSISTEMA (Ecosystem)
+
+Plataformas, repositórios e recursos da comunidade.
+
+| # | Tema | Recursos | Descrição |
+|---|------|----------|-----------|
+| 4.1 | [**Plataformas e Ferramentas**](./04_ECOSYSTEM/4.1_Platforms_and_Tools/) | 37 | MLOps, deployment, monitoramento |
+| 4.2 | [**Meta Repositórios**](./04_ECOSYSTEM/4.2_Meta_Repositories/) | 1.000+ | Awesome lists, coleções curadas |
+| 4.3 | [**Repositórios SOTA 2025**](./04_ECOSYSTEM/4.3_SOTA_Repositories_2025/) | 35 | Estado-da-arte (Out 2025) |
+| 4.4 | [**Ensemble Learning**](./04_ECOSYSTEM/4.4_Ensemble_Learning/) | 33 | Técnicas de ensemble, boosting |
+| 4.5 | [**Modelos Gerais de IA**](./04_ECOSYSTEM/4.5_General_AI_Models/) | 113 | Coleção geral de alta qualidade |
+| 4.6 | [**Top Repositórios Ausentes**](./04_ECOSYSTEM/4.6_Top_Missing_Repos/) | 42 | Repos de alta qualidade (1.2M+ ⭐) |
+| 4.7 | [**Repositórios Enviados por Usuários**](./04_ECOSYSTEM/4.7_User_Submitted_Repos/) | 26 | Contribuições da comunidade (618k+ ⭐) |
+
+**Destaques SOTA 2025:**
+- **mozilla/DeepSpeech** (26.6k⭐) - Speech-to-text
+- **Stability-AI/generative-models** (26.5k⭐)
+- **microsoft/BitNet** (24.3k⭐) - 1-bit LLMs
+- **state-spaces/mamba** (16.3k⭐) - Mamba SSM
+
+**Destaques Top Repos Ausentes:**
+- **hacksider/Deep-Live-Cam** (74k⭐) - Real-time face swap
+- **mlabonne/llm-course** (66k⭐) - LLM learning course
+- **infiniflow/ragflow** (66k⭐) - RAG engine
+- **All-Hands-AI/OpenHands** (64k⭐) - AI software engineer
+
+---
+
+## 🎨 Navegação por Caso de Uso
+
+### 💼 Para Empresas
+
+- [Banking AI](./02_APPLICATIONS/2.1_Specialized_Applications/BANKING_AI_REPOS.md) - 186 recursos
+- [Fraud Detection](./02_APPLICATIONS/2.1_Specialized_Applications/FRAUD_DETECTION_REPOS.md) - 140 recursos
+- [Business AI](./02_APPLICATIONS/2.1_Specialized_Applications/BUSINESS_AI_REPOS_2025.md)
+
+### 🧑‍💻 Para Desenvolvedores
+
+- [AI Coding Assistants](./04_ECOSYSTEM/4.7_User_Submitted_Repos/) - OpenHands, smolagents, bolt.new
+- [Code Generation](./02_APPLICATIONS/2.2_Niche_Models/Code_Generation_and_Analysis.md)
+- [Plataformas](./04_ECOSYSTEM/4.1_Platforms_and_Tools/) - MLOps, deployment
+
+### 🎓 Para Pesquisadores
+
+- [Laboratórios Universitários](./03_RESOURCES/3.2_University_Labs/) - 36 organizações
+- [SOTA 2025](./04_ECOSYSTEM/4.3_SOTA_Repositories_2025/) - 35 repositórios
+- [Ensemble Learning](./04_ECOSYSTEM/4.4_Ensemble_Learning/) - 33 repositórios
+
+### 🎨 Para Criadores
+
+- [Audio & Music AI](./02_APPLICATIONS/2.2_Niche_Models/Audio_and_Music_AI.md)
+- [Video Generation](./02_APPLICATIONS/2.2_Niche_Models/Video_Generation_and_Analysis.md)
+- [Modelos Generativos](./01_FOUNDATIONS/1.2_Core_Models/) - DALL-E, Sora, Stable Diffusion
+
+---
+
+## 📊 Comparação com Outros Repositórios
+
+| Repositório | Recursos | Stars | vs Nosso |
+|-------------|----------|-------|----------|
+| **Awesome AI Models Collection** | **14.699+** | - | **1.0x** |
+| Awesome Machine Learning | 1.268 | 65k | **11.6x menor** |
+| Awesome Deep Learning | 610 | 23k | **24.1x menor** |
+| Transferlearning | 1.000 | 14k | **14.7x menor** |
+| Awesome-AI-Tools | 423 | 3.5k | **34.7x menor** |
+
+**Nosso repositório é 33.9X maior** que a média dos repositórios curatoriais populares!
+
+---
+
+## 🚀 Como Usar Este Repositório
+
+### Instalação
 
 ```bash
 # Clonar o repositório
 git clone https://github.com/FELIPEACASTRO/Awesome-AI-Models-Collection.git
 
-# Navegar para um tema
-cd Awesome-AI-Models-Collection/02_MODELS/
-
-# Ver modelos de IA
-cat EPIC_AI_COLLECTION.md
+# Navegar para o diretório
+cd Awesome-AI-Models-Collection
 ```
 
-### Recomendações
+### Navegação
 
-- 📚 **Iniciantes:** `08_ULTIMATE/ULTIMATE_AI_COLLECTION.md`
-- 🧮 **Algoritmos:** `01_ALGORITHMS/COMPLETE_ORGANIZED_COLLECTION.md`
-- 🤖 **Modelos:** `02_MODELS/`
-- 📊 **Datasets:** `03_DATASETS/`
-- 🏦 **Banking/Finance:** `06_SPECIALIZED/`
+```bash
+# Ver modelos de IA
+cd 01_FOUNDATIONS/1.2_Core_Models/
+cat EPIC_AI_COLLECTION.md
 
----
+# Ver datasets
+cd 01_FOUNDATIONS/1.3_Datasets/
+cat MASSIVE_COLLECTION.md
 
-## 📊 Comparação
+# Ver recursos SOTA
+cd 04_ECOSYSTEM/4.3_SOTA_Repositories_2025/
+cat SOTA_MODELS_OCT_2025.md
+```
 
-| Repositório | Recursos | Stars | vs Nosso |
-|-------------|----------|-------|----------|
-| **Awesome AI Models Collection** | **14,350+** | - | **1.0x** |
-| Awesome Machine Learning | 1,268 | 65k | **11.3x menor** |
-| Awesome Deep Learning | 610 | 23k | **23.5x menor** |
-| Transferlearning | 1,000 | 14k | **14.4x menor** |
-| Awesome-AI-Tools | 423 | 3.5k | **33.9x menor** |
+### Busca
 
----
+Use a busca do GitHub para encontrar recursos específicos:
 
-## 🤝 Contribuindo
-
-1. Fork o repositório
-2. Crie uma branch (`git checkout -b feature/NovoRecurso`)
-3. Commit (`git commit -m 'Add: Novo recurso'`)
-4. Push (`git push origin feature/NovoRecurso`)
-5. Abra um Pull Request
-
----
-
-## ⭐ Apoie o Projeto
-
-- ⭐ Dar uma estrela no GitHub
-- 🔄 Compartilhar com desenvolvedores
-- 🤝 Contribuir com recursos
-- 📢 Divulgar nas redes sociais
+```
+repo:FELIPEACASTRO/Awesome-AI-Models-Collection "GPT-5"
+repo:FELIPEACASTRO/Awesome-AI-Models-Collection "fraud detection"
+repo:FELIPEACASTRO/Awesome-AI-Models-Collection "dataset"
+```
 
 ---
 
 ## 📈 Estatísticas Detalhadas
 
-### Por Categoria
+### Distribuição por Categoria
 
-| Categoria | Quantidade | % |
-|-----------|-----------|---|
-| Algoritmos | 4,650+ | 32.4% |
-| Modelos de IA | 3,900+ | 27.2% |
-| Repositórios | 1,000+ | 7.0% |
-| Datasets | 730+ | 5.1% |
-| ML/DL Resources | 2,029+ | 14.1% |
-| Especializados | 461+ | 3.2% |
-| Outros | 1,580+ | 11.0% |
+| Categoria | Quantidade | % do Total |
+|-----------|-----------|------------|
+| 🧮 Algoritmos | 4.650+ | 31.6% |
+| 🤖 Modelos de IA | 3.900+ | 26.5% |
+| 📚 Recursos Diversos | 2.000+ | 13.6% |
+| 🔗 Repositórios GitHub | 1.000+ | 6.8% |
+| 📊 Datasets | 730+ | 5.0% |
+| 🏦 Especializados | 461+ | 3.1% |
+| 🌐 Outros | 1.958+ | 13.4% |
+| **Total** | **14.699+** | **100%** |
+
+### Validações Realizadas
+
+| Validação | Total | Válidos | Taxa de Sucesso |
+|-----------|-------|---------|-----------------|
+| Repositórios SOTA | 7.000+ | 35 | 90% |
+| Organizações Universitárias | 94 | 71 | 75% |
+| Ensemble Learning | 81 | 73 | 90% |
+| Niche Models | 159 | 143 | 90% |
+| General AI Models | 137 | 105 | 100% |
+| Top Repos Ausentes | 95 | 90 | 100% |
+| User Submitted | 53 | 48 | 90% |
+
+---
+
+## 🤝 Como Contribuir
+
+Contribuições são muito bem-vindas! Siga os passos abaixo:
+
+### 1. Fork o Repositório
+
+```bash
+# Fazer fork via GitHub
+# Clonar seu fork
+git clone https://github.com/SEU-USUARIO/Awesome-AI-Models-Collection.git
+```
+
+### 2. Criar uma Branch
+
+```bash
+git checkout -b feature/NovoRecurso
+```
+
+### 3. Adicionar Recurso
+
+- Adicione o recurso no diretório apropriado
+- Siga o formato existente
+- Valide URLs e informações
+
+### 4. Commit e Push
+
+```bash
+git add .
+git commit -m "Add: Novo recurso de [categoria]"
+git push origin feature/NovoRecurso
+```
+
+### 5. Abrir Pull Request
+
+- Descreva o recurso adicionado
+- Inclua links e validações
+- Aguarde revisão
+
+---
+
+## ⭐ Apoie o Projeto
+
+Se este repositório foi útil para você, considere:
+
+- ⭐ **Dar uma estrela** no GitHub
+- 🔄 **Compartilhar** com outros desenvolvedores
+- 🤝 **Contribuir** com novos recursos
+- 📢 **Divulgar** nas redes sociais
+- 💬 **Deixar feedback** via issues
+
+---
+
+## 📄 Licença
+
+Este repositório é licenciado sob a [Licença MIT](./LICENSE).
+
+---
+
+## 🙏 Agradecimentos
+
+- Comunidade open-source de IA
+- Contribuidores do GitHub
+- Universidades e institutos de pesquisa
+- Empresas que compartilham modelos e datasets
 
 ---
 
@@ -383,10 +324,12 @@ cat EPIC_AI_COLLECTION.md
 
 **🌟 O Maior Repositório Curatorial de IA do GitHub 🌟**
 
-**14,350+ recursos | 8 temas | 27 documentos | 33.9X maior**
+**14.699+ recursos | 17 temas | 76+ documentos | 33.9X maior**
 
 Made with ❤️ by [Felipe Castro](https://github.com/FELIPEACASTRO)
 
 **Última Atualização:** 31 de Outubro de 2025
+
+[⬆️ Voltar ao Topo](#-awesome-ai-models-collection)
 
 </div>

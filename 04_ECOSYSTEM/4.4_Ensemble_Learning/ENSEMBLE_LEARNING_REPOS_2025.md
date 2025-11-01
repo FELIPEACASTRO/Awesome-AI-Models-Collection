@@ -97,4 +97,4 @@ Este documento lista repositórios de ensemble learning, AutoML, boosting e téc
 ---
 
 **Última Atualização:** 30 de Outubro de 2025  
-**Mantido por:** Manus AI
+**Mantido por:** IA

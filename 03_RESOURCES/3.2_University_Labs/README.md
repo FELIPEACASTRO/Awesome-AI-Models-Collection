@@ -153,7 +153,7 @@ As universidades listadas oferecem programas de PhD e mestrado em:
 
 ## 👤 Mantido por
 
-**Manus AI** - Análise e validação automatizada
+**IA** - Análise e validação automatizada
 
 ## 🔗 Links Úteis
 
