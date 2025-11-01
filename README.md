@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Recursos-14,713%2B-blue?style=for-the-badge" alt="Total de Recursos">
-  <img src="https://img.shields.io/badge/Temas-20-green?style=for-the-badge" alt="Total de Temas">
-  <img src="https://img.shields.io/badge/Documentos-79%2B-orange?style=for-the-badge" alt="Total de Documentos">
+  <img src="https://img.shields.io/badge/Total%20Recursos-14,725%2B-blue?style=for-the-badge" alt="Total de Recursos">
+  <img src="https://img.shields.io/badge/Temas-21-green?style=for-the-badge" alt="Total de Temas">
+  <img src="https://img.shields.io/badge/Documentos-80%2B-orange?style=for-the-badge" alt="Total de Documentos">
   <img src="https://img.shields.io/badge/Atualizado-Outubro%202025-red?style=for-the-badge" alt="Atualizado">
 </p>
 
@@ -22,12 +22,12 @@
 
 | Métrica | Valor | Comparação |
 |---|---|---|
-| 🎯 **Total de Recursos** | 14.713+ | **34X maior** que outros repos |
-| 📁 **Temas Organizados** | 20 | Estrutura hierárquica |
-| 📄 **Documentos** | 79+ | Profissionalmente formatados |
+| 🎯 **Total de Recursos** | 14.725+ | **34X maior** que outros repos |
+| 📁 **Temas Organizados** | 21 | Estrutura hierárquica |
+| 📄 **Documentos** | 80+ | Profissionalmente formatados |
 | 🌐 **Plataformas** | 87+ | AWS, Google, Azure, Snowflake |
 | 🎓 **Universidades** | 200+ | Cobertura global |
-| ⭐ **Estrelas Combinadas** | 2M+ | Repositórios validados |
+| ⭐ **Estrelas Combinadas** | 2.1M+ | Repositórios validados |
 
 ---
 
@@ -55,7 +55,7 @@
 
 ## 📂 Estrutura do Repositório
 
-O repositório está organizado em **4 categorias principais** com **20 temas**:
+O repositório está organizado em **4 categorias principais** com **21 temas**:
 
 ### 🏛️ 01 - FUNDAMENTOS (Foundations)
 
@@ -129,6 +129,7 @@ Plataformas, repositórios e recursos da comunidade.
 | 4.5 | [**Modelos Gerais de IA**](./04_ECOSYSTEM/4.5_General_AI_Models/) | 113 | Coleção geral de alta qualidade |
 | 4.6 | [**Top Repositórios Ausentes**](./04_ECOSYSTEM/4.6_Top_Missing_Repos/) | 42 | Repos de alta qualidade (1.2M+ ⭐) |
 | 4.7 | [**Repositórios Enviados por Usuários**](./04_ECOSYSTEM/4.7_User_Submitted_Repos/) | 26 | Contribuições da comunidade (618k+ ⭐) |
+| 4.8 | [**AutoML & Auto Learning**](./04_ECOSYSTEM/4.8_AutoML_and_Auto_Learning/) | 12 | AutoML, NAS e ferramentas de auto learning |
 
 **Destaques SOTA 2025:**
 - **mozilla/DeepSpeech** (26.6k⭐) - Speech-to-text
@@ -176,11 +177,11 @@ Plataformas, repositórios e recursos da comunidade.
 
 | Repositório | Recursos | Stars | vs Nosso |
 |---|---|---|---|
-| **Awesome AI Models Collection** | **14.713+** | - | **1.0x** |
+| **Awesome AI Models Collection** | **14.725+** | - | **1.0x** |
 | Awesome Machine Learning | 1.268 | 65k | **11.6x menor** |
 | Awesome Deep Learning | 610 | 23k | **24.1x menor** |
 | Transferlearning | 1.000 | 14k | **14.7x menor** |
-| Awesome-AI-Tools | 423 | 3.5k | **34.7x menor** |
+| Awesome-AI-Tools | 423 | 3.5k | **34.8x menor** |
 
 **Nosso repositório é 34X maior** que a média dos repositórios curatoriais populares!
 
@@ -238,8 +239,8 @@ repo:FELIPEACASTRO/Awesome-AI-Models-Collection "dataset"
 | 🔗 Repositórios GitHub | 1.000+ | 6.8% |
 | 📊 Datasets | 730+ | 5.0% |
 | 🏦 Especializados | 461+ | 3.1% |
-| 🌐 Outros | 1.959+ | 13.4% |
-| **Total** | **14.705+** | **100%** |
+| 🌐 Outros | 1.971+ | 13.4% |
+| **Total** | **14.713+** | **100%** |
 
 ### Validações Realizadas
 
@@ -326,7 +327,7 @@ Este repositório é licenciado sob a [Licença MIT](./LICENSE).
 
 **🌟 O Maior Repositório Curatorial de IA do GitHub 🌟**
 
-**14.713+ recursos | 20 temas | 79+ documentos | 34X maior**
+**14.725+ recursos | 21 temas | 80+ documentos | 34X maior**
 
 Made with ❤️ by [Felipe Castro](https://github.com/FELIPEACASTRO)
 

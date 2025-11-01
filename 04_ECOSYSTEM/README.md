@@ -43,6 +43,11 @@ Destaques:
 
 Contribuições validadas de usuários.
 
+### [4.8 - AutoML & Auto Learning](./4.8_AutoML_and_Auto_Learning/)
+**12 repositórios**
+
+Coleção de repositórios de AutoML, NAS e ferramentas de aprendizado automático.
+
 ---
 
 [↩️ Voltar para o README principal](../README.md)
