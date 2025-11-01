@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Recursos-14,725%2B-blue?style=for-the-badge" alt="Total de Recursos">
-  <img src="https://img.shields.io/badge/Temas-21-green?style=for-the-badge" alt="Total de Temas">
-  <img src="https://img.shields.io/badge/Documentos-80%2B-orange?style=for-the-badge" alt="Total de Documentos">
+  <img src="https://img.shields.io/badge/Total%20Recursos-14,734%2B-blue?style=for-the-badge" alt="Total de Recursos">
+  <img src="https://img.shields.io/badge/Temas-22-green?style=for-the-badge" alt="Total de Temas">
+  <img src="https://img.shields.io/badge/Documentos-81%2B-orange?style=for-the-badge" alt="Total de Documentos">
   <img src="https://img.shields.io/badge/Atualizado-Outubro%202025-red?style=for-the-badge" alt="Atualizado">
 </p>
 
@@ -22,9 +22,9 @@
 
 | Métrica | Valor | Comparação |
 |---|---|---|
-| 🎯 **Total de Recursos** | 14.725+ | **34X maior** que outros repos |
-| 📁 **Temas Organizados** | 21 | Estrutura hierárquica |
-| 📄 **Documentos** | 80+ | Profissionalmente formatados |
+| 🎯 **Total de Recursos** | 14.734+ | **34X maior** que outros repos |
+| 📁 **Temas Organizados** | 22 | Estrutura hierárquica |
+| 📄 **Documentos** | 81+ | Profissionalmente formatados |
 | 🌐 **Plataformas** | 87+ | AWS, Google, Azure, Snowflake |
 | 🎓 **Universidades** | 200+ | Cobertura global |
 | ⭐ **Estrelas Combinadas** | 2.1M+ | Repositórios validados |
@@ -55,7 +55,7 @@
 
 ## 📂 Estrutura do Repositório
 
-O repositório está organizado em **4 categorias principais** com **21 temas**:
+O repositório está organizado em **4 categorias principais** com **22 temas**:
 
 ### 🏛️ 01 - FUNDAMENTOS (Foundations)
 
@@ -85,6 +85,7 @@ Modelos e ferramentas para domínios específicos.
 | 2.1 | [**Aplicações Especializadas**](./02_APPLICATIONS/2.1_Specialized_Applications/) | 461 | Banking (186), Fraud Detection (140), Biomass, Business |
 | 2.2 | [**Modelos de Nicho**](./02_APPLICATIONS/2.2_Niche_Models/) | 86 | Audio, Video, Code Gen, Medical, Time Series, GNN, RL |
 | 2.3 | [**Aplicações na Indústria**](./02_APPLICATIONS/2.3_Industry_Applications/) | 8 | IA aplicada em diversos setores econômicos |
+| 2.4 | [**Aplicações Financeiras**](./02_APPLICATIONS/2.4_Financial_Applications/) | 9 | IA em finanças (trading, risco, fraude, AML, chatbots) |
 
 **Categorias de Nicho (86 repos validados):**
 - 🎵 Audio & Music AI
@@ -177,7 +178,7 @@ Plataformas, repositórios e recursos da comunidade.
 
 | Repositório | Recursos | Stars | vs Nosso |
 |---|---|---|---|
-| **Awesome AI Models Collection** | **14.725+** | - | **1.0x** |
+| **Awesome AI Models Collection** | **14.734+** | - | **1.0x** |
 | Awesome Machine Learning | 1.268 | 65k | **11.6x menor** |
 | Awesome Deep Learning | 610 | 23k | **24.1x menor** |
 | Transferlearning | 1.000 | 14k | **14.7x menor** |
@@ -327,7 +328,7 @@ Este repositório é licenciado sob a [Licença MIT](./LICENSE).
 
 **🌟 O Maior Repositório Curatorial de IA do GitHub 🌟**
 
-**14.725+ recursos | 21 temas | 80+ documentos | 34X maior**
+**14.734+ recursos | 22 temas | 81+ documentos | 34X maior**
 
 Made with ❤️ by [Felipe Castro](https://github.com/FELIPEACASTRO)
 

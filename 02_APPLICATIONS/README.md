@@ -29,6 +29,11 @@ Categorias:
 
 Coleção de repositórios de IA aplicada em diversos setores econômicos.
 
+### [2.4 - Aplicações Financeiras](./2.4_Financial_Applications/)
+**9 repositórios**
+
+IA em finanças (trading, risco, fraude, AML, chatbots).
+
 ---
 
 [↩️ Voltar para o README principal](../README.md)
