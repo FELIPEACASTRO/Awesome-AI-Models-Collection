@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Recursos-14,700%2B-blue?style=for-the-badge" alt="Total de Recursos">
-  <img src="https://img.shields.io/badge/Temas-18-green?style=for-the-badge" alt="Total de Temas">
-  <img src="https://img.shields.io/badge/Documentos-77%2B-orange?style=for-the-badge" alt="Total de Documentos">
+  <img src="https://img.shields.io/badge/Total%20Recursos-14,705%2B-blue?style=for-the-badge" alt="Total de Recursos">
+  <img src="https://img.shields.io/badge/Temas-19-green?style=for-the-badge" alt="Total de Temas">
+  <img src="https://img.shields.io/badge/Documentos-78%2B-orange?style=for-the-badge" alt="Total de Documentos">
   <img src="https://img.shields.io/badge/Atualizado-Outubro%202025-red?style=for-the-badge" alt="Atualizado">
 </p>
 
@@ -22,9 +22,9 @@
 
 | Métrica | Valor | Comparação |
 |---|---|---|
-| 🎯 **Total de Recursos** | 14.700+ | **34X maior** que outros repos |
-| 📁 **Temas Organizados** | 18 | Estrutura hierárquica |
-| 📄 **Documentos** | 77+ | Profissionalmente formatados |
+| 🎯 **Total de Recursos** | 14.705+ | **34X maior** que outros repos |
+| 📁 **Temas Organizados** | 19 | Estrutura hierárquica |
+| 📄 **Documentos** | 78+ | Profissionalmente formatados |
 | 🌐 **Plataformas** | 87+ | AWS, Google, Azure, Snowflake |
 | 🎓 **Universidades** | 200+ | Cobertura global |
 | ⭐ **Estrelas Combinadas** | 2M+ | Repositórios validados |
@@ -49,13 +49,13 @@
 
 1. **SOTA:** [Repositórios SOTA 2025](./04_ECOSYSTEM/4.3_SOTA_Repositories_2025/) - 35 repos
 2. **Papers:** [Laboratórios Universitários](./03_RESOURCES/3.2_University_Labs/) - 36 orgs
-3. **Datasets:** [Plataformas de IA e Datasets](./03_RESOURCES/3.4_AI_Platforms_and_Datasets/) - 50+ plataformas
+3. **Benchmarks:** [Humans vs AI Benchmarks](./03_RESOURCES/3.5_Humans_vs_AI_Benchmarks/) - 5 repos
 
 ---
 
 ## 📂 Estrutura do Repositório
 
-O repositório está organizado em **4 categorias principais** com **18 temas**:
+O repositório está organizado em **4 categorias principais** com **19 temas**:
 
 ### 🏛️ 01 - FUNDAMENTOS (Foundations)
 
@@ -106,6 +106,7 @@ Materiais de aprendizagem e referência.
 | 3.2 | [**Laboratórios Universitários**](./03_RESOURCES/3.2_University_Labs/) | 36 orgs | Imperial, UCL, Tsinghua, Stanford, LAION |
 | 3.3 | [**Diretórios de IA**](./03_RESOURCES/3.3_AI_Directories/) | 12 | 60.000+ ferramentas de IA acessíveis |
 | 3.4 | [**Plataformas de IA e Datasets**](./03_RESOURCES/3.4_AI_Platforms_and_Datasets/) | 50+ | Bilhões de datasets e modelos |
+| 3.5 | [**Humans vs AI Benchmarks**](./03_RESOURCES/3.5_Humans_vs_AI_Benchmarks/) | 5 | Benchmarks e repositórios de comparação |
 
 **Destaques das Plataformas:**
 - **LAION-5B** - 5.85 bilhões de pares imagem-texto
@@ -160,7 +161,7 @@ Plataformas, repositórios e recursos da comunidade.
 
 - [Laboratórios Universitários](./03_RESOURCES/3.2_University_Labs/) - 36 organizações
 - [SOTA 2025](./04_ECOSYSTEM/4.3_SOTA_Repositories_2025/) - 35 repositórios
-- [Plataformas de IA e Datasets](./03_RESOURCES/3.4_AI_Platforms_and_Datasets/) - 50+ plataformas
+- [Humans vs AI Benchmarks](./03_RESOURCES/3.5_Humans_vs_AI_Benchmarks/) - 5 repositórios
 
 ### 🎨 Para Criadores
 
@@ -174,7 +175,7 @@ Plataformas, repositórios e recursos da comunidade.
 
 | Repositório | Recursos | Stars | vs Nosso |
 |---|---|---|---|
-| **Awesome AI Models Collection** | **14.700+** | - | **1.0x** |
+| **Awesome AI Models Collection** | **14.705+** | - | **1.0x** |
 | Awesome Machine Learning | 1.268 | 65k | **11.6x menor** |
 | Awesome Deep Learning | 610 | 23k | **24.1x menor** |
 | Transferlearning | 1.000 | 14k | **14.7x menor** |
@@ -237,7 +238,7 @@ repo:FELIPEACASTRO/Awesome-AI-Models-Collection "dataset"
 | 📊 Datasets | 730+ | 5.0% |
 | 🏦 Especializados | 461+ | 3.1% |
 | 🌐 Outros | 1.959+ | 13.4% |
-| **Total** | **14.700+** | **100%** |
+| **Total** | **14.705+** | **100%** |
 
 ### Validações Realizadas
 
@@ -324,7 +325,7 @@ Este repositório é licenciado sob a [Licença MIT](./LICENSE).
 
 **🌟 O Maior Repositório Curatorial de IA do GitHub 🌟**
 
-**14.700+ recursos | 18 temas | 77+ documentos | 34X maior**
+**14.705+ recursos | 19 temas | 78+ documentos | 34X maior**
 
 Made with ❤️ by [Felipe Castro](https://github.com/FELIPEACASTRO)
 

@@ -43,3 +43,8 @@ Coleção das maiores plataformas de IA, marketplaces de datasets e recursos de 
 ---
 
 [↩️ Voltar para o README principal](../README.md)
+
+### [3.5 - Humans vs AI Benchmarks](./3.5_Humans_vs_AI_Benchmarks/)
+**5 repositórios e 4 benchmarks**
+
+Coleção de benchmarks e repositórios focados na comparação de performance entre humanos e IA.
