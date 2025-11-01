@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Recursos-14,699%2B-blue?style=for-the-badge" alt="Total de Recursos">
-  <img src="https://img.shields.io/badge/Temas-17-green?style=for-the-badge" alt="Total de Temas">
-  <img src="https://img.shields.io/badge/Documentos-76%2B-orange?style=for-the-badge" alt="Total de Documentos">
+  <img src="https://img.shields.io/badge/Total%20Recursos-14,700%2B-blue?style=for-the-badge" alt="Total de Recursos">
+  <img src="https://img.shields.io/badge/Temas-18-green?style=for-the-badge" alt="Total de Temas">
+  <img src="https://img.shields.io/badge/Documentos-77%2B-orange?style=for-the-badge" alt="Total de Documentos">
   <img src="https://img.shields.io/badge/Atualizado-Outubro%202025-red?style=for-the-badge" alt="Atualizado">
 </p>
 
@@ -21,11 +21,11 @@
 ## 📊 Estatísticas Rápidas
 
 | Métrica | Valor | Comparação |
-|---------|-------|------------|
-| 🎯 **Total de Recursos** | 14.699+ | **33.9X maior** que outros repos |
-| 📁 **Temas Organizados** | 17 | Estrutura hierárquica |
-| 📄 **Documentos** | 76+ | Profissionalmente formatados |
-| 🌐 **Plataformas** | 37 | AWS, Google, Azure |
+|---|---|---|
+| 🎯 **Total de Recursos** | 14.700+ | **34X maior** que outros repos |
+| 📁 **Temas Organizados** | 18 | Estrutura hierárquica |
+| 📄 **Documentos** | 77+ | Profissionalmente formatados |
+| 🌐 **Plataformas** | 87+ | AWS, Google, Azure, Snowflake |
 | 🎓 **Universidades** | 200+ | Cobertura global |
 | ⭐ **Estrelas Combinadas** | 2M+ | Repositórios validados |
 
@@ -49,20 +49,20 @@
 
 1. **SOTA:** [Repositórios SOTA 2025](./04_ECOSYSTEM/4.3_SOTA_Repositories_2025/) - 35 repos
 2. **Papers:** [Laboratórios Universitários](./03_RESOURCES/3.2_University_Labs/) - 36 orgs
-3. **Datasets:** [Datasets](./01_FOUNDATIONS/1.3_Datasets/) - 730+ datasets
+3. **Datasets:** [Plataformas de IA e Datasets](./03_RESOURCES/3.4_AI_Platforms_and_Datasets/) - 50+ plataformas
 
 ---
 
 ## 📂 Estrutura do Repositório
 
-O repositório está organizado em **4 categorias principais** com **17 temas**:
+O repositório está organizado em **4 categorias principais** com **18 temas**:
 
 ### 🏛️ 01 - FUNDAMENTOS (Foundations)
 
 Base essencial para entender e trabalhar com IA.
 
 | # | Tema | Recursos | Descrição |
-|---|------|----------|-----------|
+|---|---|---|---|
 | 1.1 | [**Algoritmos**](./01_FOUNDATIONS/1.1_Algorithms/) | 4.650+ | Algoritmos fundamentais de ML/DL |
 | 1.2 | [**Modelos Core**](./01_FOUNDATIONS/1.2_Core_Models/) | 3.900+ | GPT-5, Claude 4.x, Gemini, Llama, Mistral |
 | 1.3 | [**Datasets**](./01_FOUNDATIONS/1.3_Datasets/) | 730+ | HuggingFace, Kaggle, UCI, Banking |
@@ -81,7 +81,7 @@ Base essencial para entender e trabalhar com IA.
 Modelos e ferramentas para domínios específicos.
 
 | # | Tema | Recursos | Descrição |
-|---|------|----------|-----------|
+|---|---|---|---|
 | 2.1 | [**Aplicações Especializadas**](./02_APPLICATIONS/2.1_Specialized_Applications/) | 461 | Banking (186), Fraud Detection (140), Biomass, Business |
 | 2.2 | [**Modelos de Nicho**](./02_APPLICATIONS/2.2_Niche_Models/) | 86 | Audio, Video, Code Gen, Medical, Time Series, GNN, RL |
 
@@ -101,16 +101,16 @@ Modelos e ferramentas para domínios específicos.
 Materiais de aprendizagem e referência.
 
 | # | Tema | Recursos | Descrição |
-|---|------|----------|-----------|
+|---|---|---|---|
 | 3.1 | [**Recursos de Aprendizagem**](./03_RESOURCES/3.1_Learning_Resources/) | 2.000+ | Tutoriais, cursos, guias, MLOps, frameworks |
 | 3.2 | [**Laboratórios Universitários**](./03_RESOURCES/3.2_University_Labs/) | 36 orgs | Imperial, UCL, Tsinghua, Stanford, LAION |
 | 3.3 | [**Diretórios de IA**](./03_RESOURCES/3.3_AI_Directories/) | 12 | 60.000+ ferramentas de IA acessíveis |
+| 3.4 | [**Plataformas de IA e Datasets**](./03_RESOURCES/3.4_AI_Platforms_and_Datasets/) | 50+ | Bilhões de datasets e modelos |
 
-**Destaques dos Diretórios:**
-- **theresanaiforthat.com** - 39.000+ ferramentas
-- **futurepedia.io** - 5.500+ ferramentas
-- **toolify.ai** - 7.000+ ferramentas
-- **jmorganca/ollama** - 155k⭐ (executar LLMs localmente)
+**Destaques das Plataformas:**
+- **LAION-5B** - 5.85 bilhões de pares imagem-texto
+- **Papers With Code** - 11.000+ leaderboards
+- **Google Dataset Search** - 25+ milhões de datasets
 
 ---
 
@@ -119,7 +119,7 @@ Materiais de aprendizagem e referência.
 Plataformas, repositórios e recursos da comunidade.
 
 | # | Tema | Recursos | Descrição |
-|---|------|----------|-----------|
+|---|---|---|---|
 | 4.1 | [**Plataformas e Ferramentas**](./04_ECOSYSTEM/4.1_Platforms_and_Tools/) | 37 | MLOps, deployment, monitoramento |
 | 4.2 | [**Meta Repositórios**](./04_ECOSYSTEM/4.2_Meta_Repositories/) | 1.000+ | Awesome lists, coleções curadas |
 | 4.3 | [**Repositórios SOTA 2025**](./04_ECOSYSTEM/4.3_SOTA_Repositories_2025/) | 35 | Estado-da-arte (Out 2025) |
@@ -160,7 +160,7 @@ Plataformas, repositórios e recursos da comunidade.
 
 - [Laboratórios Universitários](./03_RESOURCES/3.2_University_Labs/) - 36 organizações
 - [SOTA 2025](./04_ECOSYSTEM/4.3_SOTA_Repositories_2025/) - 35 repositórios
-- [Ensemble Learning](./04_ECOSYSTEM/4.4_Ensemble_Learning/) - 33 repositórios
+- [Plataformas de IA e Datasets](./03_RESOURCES/3.4_AI_Platforms_and_Datasets/) - 50+ plataformas
 
 ### 🎨 Para Criadores
 
@@ -173,14 +173,14 @@ Plataformas, repositórios e recursos da comunidade.
 ## 📊 Comparação com Outros Repositórios
 
 | Repositório | Recursos | Stars | vs Nosso |
-|-------------|----------|-------|----------|
-| **Awesome AI Models Collection** | **14.699+** | - | **1.0x** |
+|---|---|---|---|
+| **Awesome AI Models Collection** | **14.700+** | - | **1.0x** |
 | Awesome Machine Learning | 1.268 | 65k | **11.6x menor** |
 | Awesome Deep Learning | 610 | 23k | **24.1x menor** |
 | Transferlearning | 1.000 | 14k | **14.7x menor** |
 | Awesome-AI-Tools | 423 | 3.5k | **34.7x menor** |
 
-**Nosso repositório é 33.9X maior** que a média dos repositórios curatoriais populares!
+**Nosso repositório é 34X maior** que a média dos repositórios curatoriais populares!
 
 ---
 
@@ -229,20 +229,20 @@ repo:FELIPEACASTRO/Awesome-AI-Models-Collection "dataset"
 ### Distribuição por Categoria
 
 | Categoria | Quantidade | % do Total |
-|-----------|-----------|------------|
+|---|---|---|
 | 🧮 Algoritmos | 4.650+ | 31.6% |
 | 🤖 Modelos de IA | 3.900+ | 26.5% |
 | 📚 Recursos Diversos | 2.000+ | 13.6% |
 | 🔗 Repositórios GitHub | 1.000+ | 6.8% |
 | 📊 Datasets | 730+ | 5.0% |
 | 🏦 Especializados | 461+ | 3.1% |
-| 🌐 Outros | 1.958+ | 13.4% |
-| **Total** | **14.699+** | **100%** |
+| 🌐 Outros | 1.959+ | 13.4% |
+| **Total** | **14.700+** | **100%** |
 
 ### Validações Realizadas
 
 | Validação | Total | Válidos | Taxa de Sucesso |
-|-----------|-------|---------|-----------------|
+|---|---|---|---|
 | Repositórios SOTA | 7.000+ | 35 | 90% |
 | Organizações Universitárias | 94 | 71 | 75% |
 | Ensemble Learning | 81 | 73 | 90% |
@@ -324,7 +324,7 @@ Este repositório é licenciado sob a [Licença MIT](./LICENSE).
 
 **🌟 O Maior Repositório Curatorial de IA do GitHub 🌟**
 
-**14.699+ recursos | 17 temas | 76+ documentos | 33.9X maior**
+**14.700+ recursos | 18 temas | 77+ documentos | 34X maior**
 
 Made with ❤️ by [Felipe Castro](https://github.com/FELIPEACASTRO)
 

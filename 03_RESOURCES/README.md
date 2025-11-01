@@ -35,6 +35,11 @@ Repositórios:
 - jmorganca/ollama (155k⭐)
 - Shubhamsaboo/awesome-llm-apps (74k⭐)
 
+### [3.4 - Plataformas de IA e Datasets](./3.4_AI_Platforms_and_Datasets/)
+**50+ plataformas com bilhões de datasets**
+
+Coleção das maiores plataformas de IA, marketplaces de datasets e recursos de benchmarking.
+
 ---
 
 [↩️ Voltar para o README principal](../README.md)
